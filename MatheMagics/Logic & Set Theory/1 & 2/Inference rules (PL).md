@@ -1,0 +1,27 @@
+---
+down:
+  - "[[Modus Ponens (MP)]]"
+  - "[[Modus Tollens (MT)]]"
+  - "[[Constructive Dilemma (CD)]]"
+  - "[[Destructive Dilemma (DD)]]"
+  - "[[Disjunctive Syllogism (DS)]]"
+  - "[[Hypothetical Syllogism (HS)]]"
+  - "[[Conjunction (Conj)]]"
+  - "[[Simplification (Simp)]]"
+  - "[[Addition (Add)]]"
+  - "[[(Direct Proof, DP) or (Conditional Proof)]]"
+  - "[[Indirect proof (IP)]]"
+tags:
+  - mathemagics/mathematicalLogic_and_setTheory
+---
+- [[Modus Ponens (MP)]] ("Ponens" means "affirming" in Latin)
+- [[Modus Tollens (MT)]] ("Tollens" means "Denying" in Latin)
+- [[Constructive Dilemma (CD)]] ("Syllogism" comes from the Greek syllogismos, meaning "inference" or "conclusion")
+- [[Destructive Dilemma (DD)]]
+- [[Disjunctive Syllogism (DS)]]
+- [[Hypothetical Syllogism (HS)]]
+- [[Conjunction (Conj)]]
+- [[Simplification (Simp)]]
+- [[Addition (Add)]]
+- [[(Direct Proof, DP) or (Conditional Proof)]]
+- [[Indirect proof (IP)]]

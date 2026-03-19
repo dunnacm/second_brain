@@ -1,0 +1,157 @@
+{
+  "autoRevealActiveFile": true,
+  "autoRevealIgnoreRightSidebar": true,
+  "showTooltips": true,
+  "homepage": null,
+  "fileVisibility": "documents",
+  "excludedFolders": [],
+  "excludedFiles": [],
+  "autoSelectFirstFileOnFocusChange": false,
+  "autoExpandFoldersTags": false,
+  "collapseBehavior": "all",
+  "smartCollapse": true,
+  "showIcons": true,
+  "showNoteCount": true,
+  "navIndent": 22,
+  "navItemHeight": 28,
+  "navItemHeightScaleText": true,
+  "externalIconProviders": {
+    "fontawesome-regular": true
+  },
+  "showRootFolder": true,
+  "inheritFolderColors": true,
+  "enableFolderNotes": false,
+  "folderNoteType": "markdown",
+  "folderNoteName": "",
+  "folderNoteProperties": [],
+  "hideFolderNoteInList": true,
+  "showTags": true,
+  "showTagsAboveFolders": false,
+  "showFavoriteTagsFolder": true,
+  "showAllTagsFolder": true,
+  "showUntagged": false,
+  "showUntaggedInFavorites": false,
+  "favoriteTags": [],
+  "hiddenTags": [],
+  "defaultFolderSort": "modified-desc",
+  "multiSelectModifier": "cmdCtrl",
+  "groupByDate": true,
+  "optimizeNoteHeight": true,
+  "showQuickActions": true,
+  "quickActionRevealInFolder": true,
+  "quickActionPinNote": true,
+  "quickActionOpenInNewTab": true,
+  "dateFormat": "MMM d, yyyy",
+  "timeFormat": "h:mm a",
+  "useFrontmatterMetadata": false,
+  "frontmatterNameField": "",
+  "frontmatterCreatedField": "",
+  "frontmatterModifiedField": "",
+  "frontmatterDateFormat": "",
+  "fileNameRows": 1,
+  "showFileDate": true,
+  "showFileTags": true,
+  "showFileTagsInSlimMode": false,
+  "showParentFolderNames": true,
+  "showFilePreview": true,
+  "skipHeadingsInPreview": true,
+  "skipCodeBlocksInPreview": true,
+  "previewProperties": [],
+  "previewRows": 2,
+  "showFeatureImage": true,
+  "featureImageProperties": [
+    "thumbnail",
+    "featureResized",
+    "feature"
+  ],
+  "useEmbeddedImageFallback": true,
+  "confirmBeforeDelete": true,
+  "searchActive": true,
+  "searchProvider": "internal",
+  "showHiddenItems": false,
+  "includeDescendantNotes": true,
+  "customVaultName": "",
+  "pinnedNotes": {},
+  "folderIcons": {
+    "/": "fontawesome-regular:brain",
+    "MatheMagics": "fontawesome-regular:book",
+    "MatheMagics/Mathematical Logic & Set Theory": "fontawesome-regular:code-compare",
+    "MatheMagics/Mathematical Logic & Set Theory/Pending": "fontawesome-regular:hourglass-half",
+    "MatheMagics/Real Analysis": "fontawesome-regular:chart-area"
+  },
+  "folderColors": {
+    "MatheMagics/Mathematical Logic & Set Theory/Pending": "#64748b"
+  },
+  "folderBackgroundColors": {},
+  "folderSortOverrides": {},
+  "folderAppearances": {
+    "MatheMagics/Mathematical Logic & Set Theory/Pending": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Real Analysis": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Mathematical Logic & Set Theory": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Mathematical Logic & Set Theory/1. Propositional Logic": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Mathematical Logic & Set Theory/2. First-Order Logic": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Mathematical Logic & Set Theory/2. First-Order Logic/2.3": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    },
+    "MatheMagics/Mathematical Logic & Set Theory/2. First-Order Logic/2.1 - 2.2": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    }
+  },
+  "tagIcons": {},
+  "tagColors": {},
+  "tagBackgroundColors": {},
+  "tagSortOverrides": {},
+  "tagAppearances": {
+    "mathemagics": {
+      "showDate": false,
+      "showPreview": false,
+      "showImage": false
+    }
+  },
+  "recentIcons": {
+    "lucide": [
+      "lucide-brain"
+    ],
+    "fontawesome-regular": [
+      "fontawesome-regular:brain",
+      "fontawesome-regular:chart-area",
+      "fontawesome-regular:hourglass-half",
+      "fontawesome-regular:2",
+      "fontawesome-regular:book",
+      "fontawesome-regular:1",
+      "fontawesome-regular:code-compare",
+      "fontawesome-regular:m"
+    ],
+    "emoji": [
+      "emoji:📒",
+      "emoji:📚"
+    ]
+  },
+  "recentColors": [],
+  "lastShownVersion": "",
+  "settingsVersion": 1
+}

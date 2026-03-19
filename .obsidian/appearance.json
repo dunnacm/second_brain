@@ -1,0 +1,17 @@
+{
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "github",
+    "mos",
+    "moc-tree",
+    "Vertical colored line for H3 and H5",
+    "CustomHighlight_Color",
+    "VerticalColorLine_H3_H5_Headings"
+  ],
+  "textFontFamily": "MS Reference Sans Serif,Arial Rounded MT,Georgia",
+  "monospaceFontFamily": "Cascadia Code",
+  "accentColor": "#e17339",
+  "interfaceFontFamily": "Inter",
+  "baseFontSize": 16,
+  "theme": "moonstone"
+}

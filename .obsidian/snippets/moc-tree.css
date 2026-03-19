@@ -1,0 +1,54 @@
+/* Apply ONLY to the dataview MOC output wrapper */
+.moc-tree ul {
+  margin: 0;
+  padding-left: 1.35em;
+}
+
+/* Make markers readable (inherit normal text color) */
+.moc-tree li::marker {
+  color: var(--text-normal);
+  font-weight: 600;
+}
+
+/* Depth markers */
+.moc-tree ul > li::marker {
+  content: "•\00A0\00A0";
+  font-size: 1.5em;
+}
+
+.moc-tree ul ul > li::marker {
+  content: "○\00A0\00A0";
+  font-size: 0.6em;
+}
+
+/* Squares were too tiny in your current result:
+   keep the nicer small-square glyphs, but scale them up to match text proportion */
+.moc-tree ul ul ul > li::marker {
+  content: "▪\00A0\00A0";
+  font-size: 1.5em;
+}
+
+.moc-tree ul ul ul ul > li::marker {
+  content: "▫\00A0\00A0";
+  font-size: 1.7em;
+}
+
+.moc-tree ul ul ul ul ul > li::marker {
+  content: "◆\00A0\00A0";
+  font-size: 0.6em;
+}
+
+.moc-tree ul ul ul ul ul ul > li::marker {
+  content: "◇\00A0\00A0";
+  font-size: 0.6em;
+}
+
+.moc-tree ul ul ul ul ul ul ul > li::marker {
+  content: "▶\00A0\00A0";
+  font-size: 0.6em;
+}
+
+.moc-tree ul ul ul ul ul ul ul ul > li::marker {
+  content: "–\00A0\00A0";
+  font-size: 1em;
+}

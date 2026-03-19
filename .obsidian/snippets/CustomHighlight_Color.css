@@ -1,0 +1,20 @@
+/* Custom Highlight Color for Dunn's Obsidian Vault */
+
+/* 1. Targets Reading Mode */
+.markdown-rendered mark {
+  background-color: #bffcc6;
+  color: #000000;
+  padding: 0 2px;
+}
+
+/* 2. Targets Live Preview (Editing Mode) */
+.cm-s-obsidian span.cm-highlight {
+  background-color: #bffcc6;
+  color: #000000;
+}
+
+/* 3. Targets the == highlighting markers while typing */
+.cm-s-obsidian span.cm-formatting-highlight {
+  background-color: #bffcc6;
+  color: #000000;
+}
