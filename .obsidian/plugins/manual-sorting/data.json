@@ -2,17 +2,16 @@
   "customOrder": {
     "/": {
       "children": [
+        "Assignment (FOL), accompanying note.md",
+        "excalibrain.sync-conflict-20260319-204626-3X5DGWL.md",
+        "README.md",
         "Propositional Form English.md",
         "Notation.md",
-        "Pasted image 20260309192858.png",
-        "Pasted image 20260309193416.png",
         "Logical and Mathematical symbols.md",
         "Assignment operator.md",
-        "Pasted image 20260309173907.png",
         "Proving propositional forms.md",
         "Propositional (form) alphabet.md",
         "Alphabet + Proposition.md",
-        "excalibrain.md",
         "Untitled.md",
         "MatheMagics",
         "Language",
@@ -177,6 +176,7 @@
     },
     "MatheMagics/Logic & Set Theory/1 & 2": {
       "children": [
+        "MatheMagics/Logic & Set Theory/1 & 2/Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Bayesian statistics.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Frequentist Methods.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Quantifiers (what they do).md",
@@ -279,7 +279,6 @@
         "MatheMagics/Logic & Set Theory/1 & 2/Propositional forms (wffs, PL-formulas) + Semantics.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Propositional language (PL).md",
         "MatheMagics/Logic & Set Theory/1 & 2/Quantifiers bind.md",
-        "MatheMagics/Logic & Set Theory/1 & 2/Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇔ Symbolization ⇔ Formalization.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Standard FOL semantics.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Sufficient.md",
         "MatheMagics/Logic & Set Theory/1 & 2/Symbolization or Formalization (FOL).md",
@@ -564,9 +563,9 @@
     },
     "MatheMagics/Real Analysis/Calculus/Lists": {
       "children": [
+        "MatheMagics/Real Analysis/Calculus/Lists/Summary (calculus).sync-conflict-20260319-204626-3X5DGWL.md",
         "MatheMagics/Real Analysis/Calculus/Lists/Summary (calculus) 1.md",
         "MatheMagics/Real Analysis/Calculus/Lists/Calculus on hyperbolic functions.md",
-        "MatheMagics/Real Analysis/Calculus/Lists/Summary (calculus).md",
         "MatheMagics/Real Analysis/Calculus/Lists/Lists (Calculus).md",
         "MatheMagics/Real Analysis/Calculus/Lists/Integrals (hyperbolic).md",
         "MatheMagics/Real Analysis/Calculus/Lists/Derivatives (hyperbolic).md",
@@ -900,6 +899,9 @@
     },
     "Miscellanea/Assets/Images": {
       "children": [
+        "Miscellanea/Assets/Images/Pasted image 20260309173907.png",
+        "Miscellanea/Assets/Images/Pasted image 20260309192858.png",
+        "Miscellanea/Assets/Images/Pasted image 20260309193416.png",
         "Miscellanea/Assets/Images/Pasted image 20260109023506 1.png",
         "Miscellanea/Assets/Images/Pasted image 20260109023613 1.png",
         "Miscellanea/Assets/Images/Pasted image 20260109023755 1.png",
@@ -1123,7 +1125,7 @@
     },
     "Miscellanea/Resources/Mathematics project/Protocols/Gemini": {
       "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols/Gemini/1st.md"
+        "Miscellanea/Resources/Mathematics project/Protocols/Gemini/1st.sync-conflict-20260319-204626-3X5DGWL.md"
       ],
       "sortOrder": "custom"
     },
