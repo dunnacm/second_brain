@@ -11,3 +11,12 @@ True ∨ True = True
 True ∨ False = True
 False ∨ True = True
 False ∨ False = False
+
+## Truth valuation
+$$
+\upnu(\mathtt{p}\lor \mathtt{q})=
+\begin{cases}
+\mathtt{F} & \text{if } \upnu(\mathtt{p})=\mathtt{F}\ \text{and}\ \upnu(\mathtt{q})=\mathtt{F},\\[6pt]
+\mathtt{T} & \text{otherwise}.
+\end{cases}
+$$

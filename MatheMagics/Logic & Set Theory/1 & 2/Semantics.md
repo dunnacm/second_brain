@@ -1,7 +1,7 @@
 ---
 down:
   - "[[Semantic + Languages]]"
-  - "[[Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇔ Symbolization ⇔ Formalization]]"
+  - "[[Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization]]"
   - "[[Semantic validity]]"
 tags:
   - mathemagics/mathematicalLogic_and_setTheory

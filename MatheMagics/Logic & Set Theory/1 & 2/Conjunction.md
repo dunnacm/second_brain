@@ -14,3 +14,11 @@ Proposition formed by combining two propositions (conjuncts) with the connective
 | T   | F   | F           |
 | F   | T   | F           |
 | F   | F   | F           |
+## Truth valuation
+$$
+\upnu(\mathtt{p}\land \mathtt{q})=
+\begin{cases}
+\mathtt{T} & \text{if } \upnu(\mathtt{p})=\mathtt{T}\ \text{and}\ \upnu(\mathtt{q})=\mathtt{T},\\[6pt]
+\mathtt{F} & \text{otherwise}.
+\end{cases}
+$$

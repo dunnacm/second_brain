@@ -29,6 +29,14 @@ So, $\mathtt{A}\leftrightarrow \mathtt{B}$ is true **exactly when** $\mathtt{A}$
 | $\mathtt{T}$ | $\mathtt{F}$ | $\mathtt{F}$ |
 | $\mathtt{F}$ | $\mathtt{T}$ | $\mathtt{F}$ |
 | $\mathtt{F}$ | $\mathtt{F}$ | $\mathtt{T}$ |
+## Truth valuation
+$$
+\upnu(\mathtt{p}\leftrightarrow \mathtt{q})=
+\begin{cases}
+\mathtt{T} & \text{if } \upnu(\mathtt{p})=\upnu(\mathtt{q}),\\[6pt]
+\mathtt{F} & \text{otherwise}.
+\end{cases}
+$$
 
 ## Parsing note
 ### 1. Formal Logic (The Associative Interpretation)

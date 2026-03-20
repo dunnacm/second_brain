@@ -26,6 +26,15 @@ In symbolic logic, the expression $p\to q$ is defined truth-functionally. Here, 
 - $\mathtt{T}\to\mathtt{F}=\mathtt{F}$
 - $\mathtt{F}\to\mathtt{T}=\mathtt{T}$
 - $\mathtt{F}\to\mathtt{F}=\mathtt{T}$
+## Truth valuation
+$$
+\upnu(\mathtt{p}\to \mathtt{q})=
+\begin{cases}
+\mathtt{F} & \text{if } \upnu(\mathtt{p})=\mathtt{T}\ \text{and}\ \upnu(\mathtt{q})=\mathtt{F},\\[6pt]
+\mathtt{T} & \text{otherwise}.
+\end{cases}
+$$
+
 ## Right-associativity (parsing convention)  
   
 When you see a chain of conditionals with no parentheses, the standard convention is:  **Conditionals associate to the right** (group from the right).  

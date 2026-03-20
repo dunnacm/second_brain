@@ -1,6 +1,7 @@
 ---
 down:
   - "[[Standard FOL semantics]]"
+  - "[[Assignment (FOL), accompanying note]]"
 tags:
   - mathemagics/mathematicalLogic_and_setTheory
 ---
