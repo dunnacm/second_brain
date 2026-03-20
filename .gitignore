@@ -3,6 +3,10 @@
 .stfolder/
 
 .obsidian/todoist-token
+.obsidian/**/*token*
 .obsidian/*.sync-conflict-*.json
 .obsidian/workspace*.json
 .obsidian/**/*.sync-conflict-*.json
+*.sync-conflict-*
+.obsidian/**/*-SC*.json
+.obsidian/**/*.backup*
