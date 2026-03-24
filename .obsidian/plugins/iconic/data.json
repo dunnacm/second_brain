@@ -34,14 +34,16 @@
       "icon": "lucide-quote",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
-        "5b27a0b7ae38890b"
+        "5b27a0b7ae38890b",
+        "/storage/emulated/0/Documents"
       ]
     },
     "Language": {
       "icon": "📖",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
-        "5b27a0b7ae38890b"
+        "5b27a0b7ae38890b",
+        "/storage/emulated/0/Documents"
       ]
     },
     "MatheMagics": {
@@ -60,11 +62,18 @@
         "5b27a0b7ae38890b"
       ]
     },
+    "MatheMagics/Combinatorics": {
+      "icon": "🧩",
+      "unsynced": [
+        "5b27a0b7ae38890b"
+      ]
+    },
     "MatheMagics/Computation": {
       "icon": "🖥️",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
-        "5b27a0b7ae38890b"
+        "5b27a0b7ae38890b",
+        "/storage/emulated/0/Documents"
       ]
     },
     "MatheMagics/Geometry": {
@@ -129,7 +138,8 @@
       "icon": "📈",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
-        "5b27a0b7ae38890b"
+        "5b27a0b7ae38890b",
+        "/storage/emulated/0/Documents"
       ]
     },
     "MatheMagics/Real Analysis": {

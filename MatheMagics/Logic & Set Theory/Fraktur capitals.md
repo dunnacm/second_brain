@@ -1,0 +1,6 @@
+---
+down:
+  - "[[A]]"
+tags:
+  - mathemagics
+---

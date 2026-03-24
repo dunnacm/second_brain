@@ -1,0 +1,5 @@
+---
+down:
+tags:
+  - mathemagics/combinatorics
+---

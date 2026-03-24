@@ -1,6 +1,6 @@
 ---
 down:
-  - "[[MatheMagics/Logic & Set Theory/1 & 2/Unit circle vs unit hyperbola]]"
+  - "[[MatheMagics/Logic & Set Theory/Unit circle vs unit hyperbola]]"
   - "[[Primary (hyperbolic) 1]]"
   - "[[Primary's reciprocal (hyperbolic) 1]]"
 tags:
