@@ -64,6 +64,9 @@ $\neg \forall x \exists y p(x, y) \Leftrightarrow \exists x \forall y \neg p(x, 
 ## Example 9:
 $\neg \forall x \exists y p(x, y) \Leftrightarrow \exists y \forall x p(x, y)$
 ## Example 10:
+
+^44fd8b
+
 Let $f$ be a function and $c$ be a real number in the open interval $I$. Then, $f$ is **[[Continuity (function)|continuous]]** at $c$ if for every $\epsilon>0$, there exists $\delta>0$ such that for all $x$ in $I$, if $0<|x-c|<\delta$, then $|f(x)-f(c)|<\epsilon$.
 	**(a)** Write what it means for $f$ to be not continuous at $c$.
 	**(b)** The function $f$ is continuous on an open interval if it is continuous at every point of the interval. Write what it means for $f$ to be not continuous on an open interval.

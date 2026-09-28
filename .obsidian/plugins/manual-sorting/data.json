@@ -4,22 +4,721 @@
       "children": [
         "README.md",
         "Untitled.md",
+        "Unit circle vs unit hyperbola.md",
         "MatheMagics",
-        "Language",
+        "Lexicon",
         "Ideas",
-        "Miscellanea"
+        "Assets & Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources": {
+      "children": [
+        "Assets & Resources/Assets",
+        "Assets & Resources/Resources"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets": {
+      "children": [
+        "Assets & Resources/Assets/Images",
+        "Assets & Resources/Assets/Templates"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets/Images": {
+      "children": [
+        "Assets & Resources/Assets/Images/Pasted image 20260320153359.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260320154237.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260323045654.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260323045748.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260323160704.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260323162224.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260323172337.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260309173907.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260309192858.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260309193416.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023506 1.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023613 1.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023755 1.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109125525 1.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109125925 1.png",
+        "Assets & Resources/Assets/Images/onHand_onOrder.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203130312.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203133315.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203133556.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203133605.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203134715.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203134724.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203134729.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203134735.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203134740.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203135538.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203135643.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203135957.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203140227.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203140658.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203140830.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203140945.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203141554.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203142347.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203142515.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203142656.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203142842.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203143653.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203143858.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203144120.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260203145534.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260205132333.png",
+        "Assets & Resources/Assets/Images/stock 5.jpg",
+        "Assets & Resources/Assets/Images/Pasted image 20260111162537.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111142000.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111142111.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111142255.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111145754.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111150159.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111150246.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260111150353.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023506.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023613.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109023755.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109125525.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109125925.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109161837.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109161859.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109172521.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109172914.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109183750.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109184336.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260106232727.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109010234.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109012030.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109012222.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109020359.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109020433.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109020519.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109020959.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109021047.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260109021901.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260106191347.png",
+        "Assets & Resources/Assets/Images/Pasted image 20260106185759.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251213154607.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251218143734.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251218152334.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251213155120.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251215164521.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251212181502.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251212181601.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251212182648.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251212182925.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251212183651.png",
+        "Assets & Resources/Assets/Images/figure84_no_text.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251130221921.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251130171557.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251130174156.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251130175401.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129211308.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129211659.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129211801.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129212222.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129212328.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129212647.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213113.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213205.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213302.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213332.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213435.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129213508.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251129214434.png",
+        "Assets & Resources/Assets/Images/Trigono_sine_en2.svg",
+        "Assets & Resources/Assets/Images/Trigonometric_functions_and_their_reciprocals_on_the_unit_circle.svg",
+        "Assets & Resources/Assets/Images/40a26e0e-2373-466f-bc5a-884a9d9553a6_white.png",
+        "Assets & Resources/Assets/Images/bb28cfa1-e068-4252-a19d-10c7345d5467_white.png",
+        "Assets & Resources/Assets/Images/convergence_sketch_clean_v3.png",
+        "Assets & Resources/Assets/Images/diagram_s_b_splus1.png",
+        "Assets & Resources/Assets/Images/Gemini_Generated_Image_rzrjperzrjperzrj.png",
+        "Assets & Resources/Assets/Images/image_white_bg_v2.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250903083513.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250903092012.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250903093823.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250905212902.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250906134118.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250906134242.png",
+        "Assets & Resources/Assets/Images/Pasted image 20250919230830.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251012115329.png",
+        "Assets & Resources/Assets/Images/Pasted image 20251105220820.png",
+        "Assets & Resources/Assets/Images/peak_step_diagram_fixed.png",
+        "Assets & Resources/Assets/Images/segment_midpoint_K_L_no_star.png"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets/Templates": {
+      "children": [
+        "Assets & Resources/Assets/Templates/Maps of Meaning",
+        "Assets & Resources/Assets/Templates/Math",
+        "Assets & Resources/Assets/Templates/Planning"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets/Templates/Maps of Meaning": {
+      "children": [
+        "Assets & Resources/Assets/Templates/Maps of Meaning/MOCs (mind map style).md",
+        "Assets & Resources/Assets/Templates/Maps of Meaning/MOCs (nested indented bullet point style).md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets/Templates/Math": {
+      "children": [
+        "Assets & Resources/Assets/Templates/Math/Template - Computational Mathematics.md",
+        "Assets & Resources/Assets/Templates/Math/Template - Hyperbolic Geometry.md",
+        "Assets & Resources/Assets/Templates/Math/Template - Euclidean Geometry.md",
+        "Assets & Resources/Assets/Templates/Math/Template - Calculus.md",
+        "Assets & Resources/Assets/Templates/Math/Template - Logic.md",
+        "Assets & Resources/Assets/Templates/Math/Template - Real Analysis.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Assets/Templates/Planning": {
+      "children": [
+        "Assets & Resources/Assets/Templates/Planning/Daily planner template.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources": {
+      "children": [
+        "Assets & Resources/Resources/Navigating Windows 11.md",
+        "Assets & Resources/Resources/Obsidian",
+        "Assets & Resources/Resources/CSS Snippets",
+        "Assets & Resources/Resources/Projects"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/CSS Snippets": {
+      "children": [
+        "Assets & Resources/Resources/CSS Snippets/Headings H3 and H5 - Vertical Bars.md",
+        "Assets & Resources/Resources/CSS Snippets/Nested List - Bullet Styles.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Obsidian": {
+      "children": [
+        "Assets & Resources/Resources/Obsidian/Callout types.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Lexicon",
+        "Assets & Resources/Resources/Projects/Mathematics Project"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Lexicon": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Lexicon/Archive"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Lexicon/Archive": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Lexicon/Archive/vocabulary_system_obsidian_footnotes_fixed.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Maps of Content"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Maps of Content": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Maps of Content/MOC - Nested List Experiments.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Maps of Content/MOC - Mermaid Diagram.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Logic & Set Theory Outline.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Logic - Linked Map.emmx",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Logic - Linked Map.mm"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/Obsidian Canvas - Graph Protocol.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/Logic & Set Theory.manifest.json",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools/__pycache__",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools/build_canvas.py"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools/__pycache__": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/Canvas/_tools/__pycache__/build_canvas.cpython-314.pyc"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd/Obsidian to yEd - Graph Protocol.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd/_tools"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd/_tools": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Canvas & yEd/Archived/yEd/_tools/build_yed_graph.py"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind/Archived"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind/Archived": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind/Archived/Graph Export Protocol V.1.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Node visualization/Obsidian to EdrawMind/Archived/Graph Export Protocol V.2.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Protocols": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Second Brain - Version Control Protocol.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/ChatGPT Global Memory v04.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics - ChatGPT Protocol v07.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Chat GPT's Global Memory Snapshots",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Chat GPT's Global Memory Snapshots": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-03-05.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-02-16.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-01-11.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots": {
+      "children": [
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v01.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v02.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v03.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v04.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v05.md",
+        "Assets & Resources/Resources/Projects/Mathematics Project/Protocols/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v06.md"
       ],
       "sortOrder": "custom"
     },
     "Ideas": {
       "children": [
-        "Ideas/Ideas.md"
+        "Ideas/IDEAS.md"
       ],
       "sortOrder": "custom"
     },
-    "Language": {
+    "Lexicon": {
       "children": [
-        "Language/Language.md"
+        "Lexicon/LEXICON.md",
+        "Lexicon/Inbox",
+        "Lexicon/POS",
+        "Lexicon/Roots",
+        "Lexicon/Concepts"
+      ],
+      "sortOrder": "custom"
+    },
+    "Lexicon/Concepts": {
+      "children": [
+        "Lexicon/Concepts/CONCEPTS.md",
+        "Lexicon/Concepts/1.1 The Experience of time.md",
+        "Lexicon/Concepts/1.1.1 Subjective Duration.md",
+        "Lexicon/Concepts/1.1.2 Memory & the Past.md",
+        "Lexicon/Concepts/1.1.3 Anticipation & the Future.md",
+        "Lexicon/Concepts/1.1.4 Presence & the Now.md",
+        "Lexicon/Concepts/1.2 Measured Time.md",
+        "Lexicon/Concepts/1.2.1 Units & Divisions.md",
+        "Lexicon/Concepts/1.2.2 Calendar & Schedule.md",
+        "Lexicon/Concepts/1.2.3 Clock & Instruments.md",
+        "Lexicon/Concepts/1.3 Sequence and Order in Time.md",
+        "Lexicon/Concepts/1.3.1 Before & After.md",
+        "Lexicon/Concepts/1.3.2 Cause & Effect.md",
+        "Lexicon/Concepts/1.3.3 Narrative Time.md",
+        "Lexicon/Concepts/1.4 Change over time.md",
+        "Lexicon/Concepts/1.4.1 Growth & Development.md",
+        "Lexicon/Concepts/1.4.2 Decline & Decay.md",
+        "Lexicon/Concepts/1.4.3 Recurrence & Cycle.md",
+        "Lexicon/Concepts/1.4.4 Revolution & Rupture.md",
+        "Lexicon/Concepts/1.5 Historical & Cultural time.md",
+        "Lexicon/Concepts/1.5.1 History & Historiography.md",
+        "Lexicon/Concepts/1.5.2 Tradition & Modernity.md",
+        "Lexicon/Concepts/1.5.3 Generation & Legacy.md",
+        "Lexicon/Concepts/2.1 Geology & Terrain.md",
+        "Lexicon/Concepts/2.2 Climate & Weather.md",
+        "Lexicon/Concepts/2.3 Ecology & Environemnt.md",
+        "Lexicon/Concepts/2.4 Flora.md",
+        "Lexicon/Concepts/2.5 Fauna.md",
+        "Lexicon/Concepts/2.6 Natural Forces and Phenomena.md",
+        "Lexicon/Concepts/3.1 Visual art.md",
+        "Lexicon/Concepts/3.2 Music & Sound.md",
+        "Lexicon/Concepts/3.3 Literature & Narrative.md",
+        "Lexicon/Concepts/3.4 Performance & Theater.md",
+        "Lexicon/Concepts/3.5 Aesthetic Judgment.md",
+        "Lexicon/Concepts/3.6 Creativity & Imagination.md",
+        "Lexicon/Concepts/4.1 Process & Procedure.md",
+        "Lexicon/Concepts/4.2 Tools & Instruments.md",
+        "Lexicon/Concepts/4.3 Craft & Making.md",
+        "Lexicon/Concepts/4.4 Technology & Systems.md",
+        "Lexicon/Concepts/4.5 Skill & Mastery.md",
+        "Lexicon/Concepts/4.6 Strategy & Planning.md",
+        "Lexicon/Concepts/5.1 Ritual & Ceremony.md",
+        "Lexicon/Concepts/5.2 Myth & Narrative.md",
+        "Lexicon/Concepts/5.3 Symbol & Sign.md",
+        "Lexicon/Concepts/5.4 Tradition & Custom.md",
+        "Lexicon/Concepts/5.5 Sacred & Profane.md",
+        "Lexicon/Concepts/5.6 Identity & Belonging.md",
+        "Lexicon/Concepts/6.1 Grammar & Syntax.md",
+        "Lexicon/Concepts/6.2 Semantics & Meaning.md",
+        "Lexicon/Concepts/6.3 Rhetoric & Persuasion.md",
+        "Lexicon/Concepts/6.4 Writing & Composition.md",
+        "Lexicon/Concepts/6.5 Semiotics & Representation.md",
+        "Lexicon/Concepts/6.6 Translation & Interpretation.md",
+        "Lexicon/Concepts/6.7 Speech & Disclosure.md",
+        "Lexicon/Concepts/7.1 Governance & Politics.md",
+        "Lexicon/Concepts/7.2 Law & Justice.md",
+        "Lexicon/Concepts/7.3 Class & Hierarchy.md",
+        "Lexicon/Concepts/7.4 War & Conflict.md",
+        "Lexicon/Concepts/7.5 Economy & Exchange.md",
+        "Lexicon/Concepts/7.6 Institution & Organization.md",
+        "Lexicon/Concepts/7.7 Ideology & Doctrine.md",
+        "Lexicon/Concepts/8.1 Virtue & Vice.md",
+        "Lexicon/Concepts/8.2 Moral reasoning.md",
+        "Lexicon/Concepts/8.3 Will & Agency.md",
+        "Lexicon/Concepts/8.4 Judgment & Discernment.md",
+        "Lexicon/Concepts/8.5 Honor & Reputation.md",
+        "Lexicon/Concepts/8.6 The Good & the Right.md",
+        "Lexicon/Concepts/9.1 Consciousness & Awareness.md",
+        "Lexicon/Concepts/9.2 Cognition & Thought.md",
+        "Lexicon/Concepts/9.3 Perception & Sensation.md",
+        "Lexicon/Concepts/9.4 Emotion & Affect.md",
+        "Lexicon/Concepts/9.5 Desire & Motivation.md",
+        "Lexicon/Concepts/9.6 Personality & Temperament.md",
+        "Lexicon/Concepts/9.7 Unconscious & Dream.md",
+        "Lexicon/Concepts/10.1 Anatomy & Physiology.md",
+        "Lexicon/Concepts/10.2 Birth, Growth, and Development.md",
+        "Lexicon/Concepts/10.3 Health & Disease.md",
+        "Lexicon/Concepts/10.4 Death & Dying.md",
+        "Lexicon/Concepts/10.5 Sexuality & Reproduction.md",
+        "Lexicon/Concepts/10.6 Mind-Body relation.md",
+        "Lexicon/Concepts/10.7 Medicine & Healing.md",
+        "Lexicon/Concepts/11.1 Geography & Landscape.md",
+        "Lexicon/Concepts/11.2 Architecture and Bult Environment.md",
+        "Lexicon/Concepts/11.3 Direction & Orientation.md",
+        "Lexicon/Concepts/11.4 Scale & Distance.md",
+        "Lexicon/Concepts/11.5 Cosmology & Universe.md",
+        "Lexicon/Concepts/11.6 The Body in Space.md",
+        "Lexicon/Concepts/12.1 States of matter.md",
+        "Lexicon/Concepts/12.2 Force & Motion.md",
+        "Lexicon/Concepts/12.3 Energy & Thermodynamics.md",
+        "Lexicon/Concepts/12.4 Light & Wave.md",
+        "Lexicon/Concepts/12.5 Particle & Field.md",
+        "Lexicon/Concepts/12.6 Chemical Process.md",
+        "Lexicon/Concepts/13.1 Pattern & Regularity.md",
+        "Lexicon/Concepts/13.2 Hierarchy & Nesting.md",
+        "Lexicon/Concepts/13.3 Connection & Network.md",
+        "Lexicon/Concepts/13.4 Boundary & Distinction.md",
+        "Lexicon/Concepts/13.5 Whole & Part.md",
+        "Lexicon/Concepts/13.6 Analogy & Correspondence.md",
+        "Lexicon/Concepts/14.1 Number & Arithmetic.md",
+        "Lexicon/Concepts/14.2 Magnitude & Scale.md",
+        "Lexicon/Concepts/14.3 Probability & Uncertainty.md",
+        "Lexicon/Concepts/14.4 Measurement & Units.md",
+        "Lexicon/Concepts/14.5 Comparison & Degree.md",
+        "Lexicon/Concepts/15.1 Epistemology.md",
+        "Lexicon/Concepts/15.2 Logic & Inference.md",
+        "Lexicon/Concepts/15.3 Modality.md",
+        "Lexicon/Concepts/15.4 Science & Method.md",
+        "Lexicon/Concepts/15.5 Meaning & Interpretation.md",
+        "Lexicon/Concepts/15.6 Skepticism & Limits of Knowledge.md",
+        "Lexicon/Concepts/15.7 Truth & Falsity.md",
+        "Lexicon/Concepts/1. Time, sequence and Duration.md",
+        "Lexicon/Concepts/2. Nature, Earth, and Living Things.md",
+        "Lexicon/Concepts/3. Art, Beauty, and Aesthetics.md",
+        "Lexicon/Concepts/4. Method, Craft, Technology, and Skill.md",
+        "Lexicon/Concepts/5. Culture, Ritual, Myth, and Symbol.md",
+        "Lexicon/Concepts/6. Language, Writing, Rhetoric, and Sign.md",
+        "Lexicon/Concepts/7. Society, Power, Law, and Institution.md",
+        "Lexicon/Concepts/8. Character, Ethics, and Value.md",
+        "Lexicon/Concepts/9. Mind, Perception, Emotion, and Temperament.md",
+        "Lexicon/Concepts/10. Life, Body, Health, and Medicine.md",
+        "Lexicon/Concepts/11. Space, Place, and World.md",
+        "Lexicon/Concepts/12. Motion, Force, Process, and Change.md",
+        "Lexicon/Concepts/13. Order, Structure, Relation, and Form.md",
+        "Lexicon/Concepts/14. Quantity, Number, Measure, and Degree.md",
+        "Lexicon/Concepts/15. Knowledge, Reason, and Truth.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Lexicon/Inbox": {
+      "children": [
+        "Lexicon/Inbox/June 4th, '26.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Lexicon/POS": {
+      "children": [
+        "Lexicon/POS/POS (Part of Speech).md",
+        "Lexicon/POS/Noun.md",
+        "Lexicon/POS/Verb.md",
+        "Lexicon/POS/Adverb.md",
+        "Lexicon/POS/Adjective.md"
+      ],
+      "sortOrder": "custom"
+    },
+    "Lexicon/Roots": {
+      "children": [
+        "Lexicon/Roots/ROOTS.md",
+        "Lexicon/Roots/SON.md",
+        "Lexicon/Roots/THE.md",
+        "Lexicon/Roots/ITIS.md",
+        "Lexicon/Roots/UND.md",
+        "Lexicon/Roots/SUPER.md",
+        "Lexicon/Roots/CIS.md",
+        "Lexicon/Roots/PHON.md",
+        "Lexicon/Roots/VAL.md",
+        "Lexicon/Roots/TOXI.md",
+        "Lexicon/Roots/CULP.md",
+        "Lexicon/Roots/MUR.md",
+        "Lexicon/Roots/URB.md",
+        "Lexicon/Roots/RETRO.md",
+        "Lexicon/Roots/ICON.md",
+        "Lexicon/Roots/SYN.md",
+        "Lexicon/Roots/CENT.md",
+        "Lexicon/Roots/SANCT.md",
+        "Lexicon/Roots/PROTO.md",
+        "Lexicon/Roots/DE.md",
+        "Lexicon/Roots/NECRO.md",
+        "Lexicon/Roots/FUS.md",
+        "Lexicon/Roots/PHOB.md",
+        "Lexicon/Roots/VEST.md",
+        "Lexicon/Roots/NOM.md",
+        "Lexicon/Roots/TROP.md",
+        "Lexicon/Roots/POS.md",
+        "Lexicon/Roots/FRACT.md",
+        "Lexicon/Roots/VER.md",
+        "Lexicon/Roots/TURB.md",
+        "Lexicon/Roots/TOM.md",
+        "Lexicon/Roots/PRIM.md",
+        "Lexicon/Roots/NEG.md",
+        "Lexicon/Roots/VOR.md",
+        "Lexicon/Roots/STRAT.md",
+        "Lexicon/Roots/GRAPH.md",
+        "Lexicon/Roots/ANTHROP.md",
+        "Lexicon/Roots/QUIS.md",
+        "Lexicon/Roots/SIGN.md",
+        "Lexicon/Roots/TORT.md",
+        "Lexicon/Roots/TEXT.md",
+        "Lexicon/Roots/PALEO.md",
+        "Lexicon/Roots/EQU.md",
+        "Lexicon/Roots/PRO.md",
+        "Lexicon/Roots/DOM.md",
+        "Lexicon/Roots/CORD.md",
+        "Lexicon/Roots/DEC.md",
+        "Lexicon/Roots/PEND.md",
+        "Lexicon/Roots/VERT.md",
+        "Lexicon/Roots/PURG.md",
+        "Lexicon/Roots/PUT.md",
+        "Lexicon/Roots/CRYPT.md",
+        "Lexicon/Roots/PRE.md",
+        "Lexicon/Roots/CAD.md",
+        "Lexicon/Roots/DYS.md",
+        "Lexicon/Roots/CLUS.md",
+        "Lexicon/Roots/CHRON.md",
+        "Lexicon/Roots/HER.md",
+        "Lexicon/Roots/META.md",
+        "Lexicon/Roots/VOC.md",
+        "Lexicon/Roots/MICRO.md",
+        "Lexicon/Roots/REG.md",
+        "Lexicon/Roots/MAR.md",
+        "Lexicon/Roots/PER.md",
+        "Lexicon/Roots/ERR.md",
+        "Lexicon/Roots/DYNAM.md",
+        "Lexicon/Roots/LUC.md",
+        "Lexicon/Roots/MIS.md",
+        "Lexicon/Roots/CARN.md",
+        "Lexicon/Roots/CONTRA.md",
+        "Lexicon/Roots/STRICT.md",
+        "Lexicon/Roots/GEN.md",
+        "Lexicon/Roots/DERM.md",
+        "Lexicon/Roots/UMBR.md",
+        "Lexicon/Roots/PENT.md",
+        "Lexicon/Roots/POT.md",
+        "Lexicon/Roots/PERI.md",
+        "Lexicon/Roots/QUINT.md",
+        "Lexicon/Roots/SERV.md",
+        "Lexicon/Roots/HYPER.md",
+        "Lexicon/Roots/DIS.md",
+        "Lexicon/Roots/NEO.md",
+        "Lexicon/Roots/LEGA.md",
+        "Lexicon/Roots/PHIL.md",
+        "Lexicon/Roots/JUNCT.md",
+        "Lexicon/Roots/CRIT.md",
+        "Lexicon/Roots/SCOP.md",
+        "Lexicon/Roots/SCEND.md",
+        "Lexicon/Roots/PEL.md",
+        "Lexicon/Roots/MAL.md",
+        "Lexicon/Roots/LATER.md",
+        "Lexicon/Roots/BIO.md",
+        "Lexicon/Roots/POPUL.md",
+        "Lexicon/Roots/TEMPER.md",
+        "Lexicon/Roots/HOL.md",
+        "Lexicon/Roots/TERR.md",
+        "Lexicon/Roots/EU.md",
+        "Lexicon/Roots/PART.md",
+        "Lexicon/Roots/UNI.md",
+        "Lexicon/Roots/HYPO.md",
+        "Lexicon/Roots/FLU.md",
+        "Lexicon/Roots/EV.md",
+        "Lexicon/Roots/MUT.md",
+        "Lexicon/Roots/POLY.md",
+        "Lexicon/Roots/SCI.md",
+        "Lexicon/Roots/POST.md",
+        "Lexicon/Roots/RECT.md",
+        "Lexicon/Roots/MONO.md",
+        "Lexicon/Roots/GREG.md",
+        "Lexicon/Roots/VIS.md",
+        "Lexicon/Roots/LOQU.md",
+        "Lexicon/Roots/NOV.md",
+        "Lexicon/Roots/CANT.md",
+        "Lexicon/Roots/ORTHO.md",
+        "Lexicon/Roots/CRED.md",
+        "Lexicon/Roots/TROPH.md",
+        "Lexicon/Roots/TOP.md",
+        "Lexicon/Roots/ONYM.md",
+        "Lexicon/Roots/KINE.md",
+        "Lexicon/Roots/GEO.md",
+        "Lexicon/Roots/HEM.md",
+        "Lexicon/Roots/MULTI.md",
+        "Lexicon/Roots/LONG.md",
+        "Lexicon/Roots/ART.md",
+        "Lexicon/Roots/MORPH.md",
+        "Lexicon/Roots/SUB.md",
+        "Lexicon/Roots/AER.md",
+        "Lexicon/Roots/LOG.md",
+        "Lexicon/Roots/FIG.md",
+        "Lexicon/Roots/CORP.md",
+        "Lexicon/Roots/IDIO.md",
+        "Lexicon/Roots/PAN.md",
+        "Lexicon/Roots/SENS.md",
+        "Lexicon/Roots/PHOT.md",
+        "Lexicon/Roots/PORT.md",
+        "Lexicon/Roots/VIR.md",
+        "Lexicon/Roots/SPHER.md",
+        "Lexicon/Roots/KILO.md",
+        "Lexicon/Roots/EXTRA.md",
+        "Lexicon/Roots/SPIR.md",
+        "Lexicon/Roots/SPECT.md",
+        "Lexicon/Roots/AQU.md",
+        "Lexicon/Roots/VERB.md",
+        "Lexicon/Roots/CATA.md",
+        "Lexicon/Roots/PATH.md",
+        "Lexicon/Roots/MILL.md",
+        "Lexicon/Roots/FALL.md",
+        "Lexicon/Roots/COSM.md",
+        "Lexicon/Roots/PARA.md",
+        "Lexicon/Roots/PLAC.md",
+        "Lexicon/Roots/LINGU.md",
+        "Lexicon/Roots/TEMPOR.md",
+        "Lexicon/Roots/TRIB.md",
+        "Lexicon/Roots/FLECT.md",
+        "Lexicon/Roots/VIV.md",
+        "Lexicon/Roots/MAND.md",
+        "Lexicon/Roots/CUR.md",
+        "Lexicon/Roots/MEDI.md",
+        "Lexicon/Roots/TETR.md",
+        "Lexicon/Roots/NANO.md",
+        "Lexicon/Roots/CAPIT.md",
+        "Lexicon/Roots/CO.md",
+        "Lexicon/Roots/FUG.md",
+        "Lexicon/Roots/INTER.md",
+        "Lexicon/Roots/ENDO.md",
+        "Lexicon/Roots/SUR.md",
+        "Lexicon/Roots/OID.md",
+        "Lexicon/Roots/DICT.md",
+        "Lexicon/Roots/SURG.md",
+        "Lexicon/Roots/CED.md",
+        "Lexicon/Roots/ANTE.md",
+        "Lexicon/Roots/FID.md",
+        "Lexicon/Roots/IATR.md",
+        "Lexicon/Roots/PAR.md",
+        "Lexicon/Roots/THERM.md",
+        "Lexicon/Roots/SOPH.md",
+        "Lexicon/Roots/ARM.md",
+        "Lexicon/Roots/ANIM.md",
+        "Lexicon/Roots/NUMER.md",
+        "Lexicon/Roots/FUNCT.md",
+        "Lexicon/Roots/LUM.md",
+        "Lexicon/Roots/AUD.md",
+        "Lexicon/Roots/TRI.md",
+        "Lexicon/Roots/TRANS.md",
+        "Lexicon/Roots/FORM.md",
+        "Lexicon/Roots/HYDR.md",
+        "Lexicon/Roots/TELE.md",
+        "Lexicon/Roots/OMNI.md",
+        "Lexicon/Roots/SOLU.md",
+        "Lexicon/Roots/JUR.md",
+        "Lexicon/Roots/PUNC.md",
+        "Lexicon/Roots/FORT.md",
+        "Lexicon/Roots/GRAT.md",
+        "Lexicon/Roots/FAC.md",
+        "Lexicon/Roots/RE.md",
+        "Lexicon/Roots/CULT.md",
+        "Lexicon/Roots/GRAD.md",
+        "Lexicon/Roots/EPI.md",
+        "Lexicon/Roots/AMBI.md",
+        "Lexicon/Roots/SEQU.md",
+        "Lexicon/Roots/TRACT.md",
+        "Lexicon/Roots/JECT.md",
+        "Lexicon/Roots/FIN.md",
+        "Lexicon/Roots/CEPT.md",
+        "Lexicon/Roots/PSYCH.md",
+        "Lexicon/Roots/MANIA.md",
+        "Lexicon/Roots/LEV.md",
+        "Lexicon/Roots/GRAV.md",
+        "Lexicon/Roots/PROB.md",
+        "Lexicon/Roots/CRIM.md",
+        "Lexicon/Roots/PAC.md",
+        "Lexicon/Roots/BELL.md",
+        "Lexicon/Roots/AM.md",
+        "Lexicon/Roots/BENE.md"
       ],
       "sortOrder": "custom"
     },
@@ -170,8 +869,8 @@
         "MatheMagics/Logic & Set Theory/A.md",
         "MatheMagics/Logic & Set Theory/Alphabet + Proposition.md",
         "MatheMagics/Logic & Set Theory/Arrows (Object language vs Meta-language).md",
-        "MatheMagics/Logic & Set Theory/Assignment (FOL), accompanying note 1.md",
-        "MatheMagics/Logic & Set Theory/Assignment (FOL), accompanying note 2.md",
+        "MatheMagics/Logic & Set Theory/Assignment (FOL), note 1.md",
+        "MatheMagics/Logic & Set Theory/Assignment (FOL), note 2.md",
         "MatheMagics/Logic & Set Theory/Assignment operator (≔).md",
         "MatheMagics/Logic & Set Theory/Definitional equivalence (≡).md",
         "MatheMagics/Logic & Set Theory/Examples (truth tables).md",
@@ -185,7 +884,6 @@
         "MatheMagics/Logic & Set Theory/Logical and Mathematical symbols.md",
         "MatheMagics/Logic & Set Theory/Closed formula.md",
         "MatheMagics/Logic & Set Theory/Constants.md",
-        "MatheMagics/Logic & Set Theory/Medicaid.md",
         "MatheMagics/Logic & Set Theory/Metavariables.md",
         "MatheMagics/Logic & Set Theory/Notation (MatheMagics).md",
         "MatheMagics/Logic & Set Theory/Notation (meta-language).md",
@@ -437,7 +1135,6 @@
         "MatheMagics/Logic & Set Theory/Types of quantifiers.md",
         "MatheMagics/Logic & Set Theory/Unary predicates.md",
         "MatheMagics/Logic & Set Theory/Universal formula.md",
-        "MatheMagics/Logic & Set Theory/Unit circle vs unit hyperbola.md",
         "MatheMagics/Logic & Set Theory/Universal generalization (UG).md",
         "MatheMagics/Logic & Set Theory/Universal proposition.md",
         "MatheMagics/Logic & Set Theory/Universal quantifier.md",
@@ -447,18 +1144,7 @@
         "MatheMagics/Logic & Set Theory/Without premises.md",
         "MatheMagics/Logic & Set Theory/Verbalizations (material implication).md",
         "MatheMagics/Logic & Set Theory/With premises.md",
-        "MatheMagics/Logic & Set Theory/Universal instantiation (UI).md",
-        "MatheMagics/Logic & Set Theory/Pending"
-      ],
-      "sortOrder": "custom"
-    },
-    "MatheMagics/Logic & Set Theory/Pending": {
-      "children": [
-        "MatheMagics/Logic & Set Theory/Pending/Page 73, SOL.md",
-        "MatheMagics/Logic & Set Theory/Pending/Pages 68, 69.md",
-        "MatheMagics/Logic & Set Theory/Pending/Proof thm. 1.5.2.md",
-        "MatheMagics/Logic & Set Theory/Pending/Proof thm. 1.5.4.md",
-        "MatheMagics/Logic & Set Theory/Pending/Proof thm. 2.3.14.md"
+        "MatheMagics/Logic & Set Theory/Universal instantiation (UI).md"
       ],
       "sortOrder": "custom"
     },
@@ -472,87 +1158,8 @@
     "MatheMagics/Operations research": {
       "children": [
         "MatheMagics/Operations research/OPERATIONS RESEARCH.md",
-        "MatheMagics/Operations research/Inventory"
-      ],
-      "sortOrder": "custom"
-    },
-    "MatheMagics/Operations research/Inventory": {
-      "children": [
-        "MatheMagics/Operations research/Inventory/Inventory planning.md",
-        "MatheMagics/Operations research/Inventory/Inventory Planning Through ODEs, Delays, and Stock‑Flow Models.md",
-        "MatheMagics/Operations research/Inventory/(s, Q) policy.md",
-        "MatheMagics/Operations research/Inventory/Allocated.md",
-        "MatheMagics/Operations research/Inventory/Allocated vs ATS vs ATP.md",
-        "MatheMagics/Operations research/Inventory/Availability.md",
-        "MatheMagics/Operations research/Inventory/Available to promise (ATP).md",
-        "MatheMagics/Operations research/Inventory/Available to sell (ATS).md",
-        "MatheMagics/Operations research/Inventory/Backorders - Backlog.md",
-        "MatheMagics/Operations research/Inventory/Capacity constraints.md",
-        "MatheMagics/Operations research/Inventory/Committed.md",
-        "MatheMagics/Operations research/Inventory/Committed vs ATS vs ATP.md",
-        "MatheMagics/Operations research/Inventory/Computed quantities (derived measure + metrics).md",
-        "MatheMagics/Operations research/Inventory/Constraints and Delays.md",
-        "MatheMagics/Operations research/Inventory/Control inputs (decision variables + policies).md",
-        "MatheMagics/Operations research/Inventory/Cycle service level.md",
-        "MatheMagics/Operations research/Inventory/Days of supply (DOS).md",
-        "MatheMagics/Operations research/Inventory/Demand (requested).md",
-        "MatheMagics/Operations research/Inventory/Demand modeling, information.md",
-        "MatheMagics/Operations research/Inventory/Exogenous drivers - Demand process.md",
-        "MatheMagics/Operations research/Inventory/Fill rate.md",
-        "MatheMagics/Operations research/Inventory/Flows.md",
-        "MatheMagics/Operations research/Inventory/Forecast error.md",
-        "MatheMagics/Operations research/Inventory/Forecast.md",
-        "MatheMagics/Operations research/Inventory/Fulfillment regime.md",
-        "MatheMagics/Operations research/Inventory/Demand vs LostSales vs Backorders.md",
-        "MatheMagics/Operations research/Inventory/Demand vs Sales.md",
-        "MatheMagics/Operations research/Inventory/Diagnostics.md",
-        "MatheMagics/Operations research/Inventory/EOQ.md",
-        "MatheMagics/Operations research/Inventory/ForecastError vs SS.md",
-        "MatheMagics/Operations research/Inventory/Inventory Position (IP).md",
-        "MatheMagics/Operations research/Inventory/IP vs (s,Q).md",
-        "MatheMagics/Operations research/Inventory/Inventory efficiency.md",
-        "MatheMagics/Operations research/Inventory/IP vs ROP.md",
-        "MatheMagics/Operations research/Inventory/IP vs S.md",
-        "MatheMagics/Operations research/Inventory/Lead time variability.md",
-        "MatheMagics/Operations research/Inventory/Lead time model.md",
-        "MatheMagics/Operations research/Inventory/Leakage (Shrink - Damage - Obsolescence).md",
-        "MatheMagics/Operations research/Inventory/Lead time.md",
-        "MatheMagics/Operations research/Inventory/Lost sales.md",
-        "MatheMagics/Operations research/Inventory/Multi-echelon network state.md",
-        "MatheMagics/Operations research/Inventory/Notation (inventory planning).md",
-        "MatheMagics/Operations research/Inventory/OH vs Receipts.md",
-        "MatheMagics/Operations research/Inventory/On order - Pipeline.md",
-        "MatheMagics/Operations research/Inventory/On-hand (OH).md",
-        "MatheMagics/Operations research/Inventory/On-time in-full (OTIF).md",
-        "MatheMagics/Operations research/Inventory/Operational computed quantities (decision-state transforms).md",
-        "MatheMagics/Operations research/Inventory/Order Quantity (Q).md",
-        "MatheMagics/Operations research/Inventory/Order-up-to-level (S).md",
-        "MatheMagics/Operations research/Inventory/Orders placed (q).md",
-        "MatheMagics/Operations research/Inventory/Performance metrics (KPIs - Outcomes).md",
-        "MatheMagics/Operations research/Inventory/Planning horizon.md",
-        "MatheMagics/Operations research/Inventory/Receipts.md",
-        "MatheMagics/Operations research/Inventory/Reorder Point (ROP).md",
-        "MatheMagics/Operations research/Inventory/Reserved vs ATS vs ATP.md",
-        "MatheMagics/Operations research/Inventory/Reserved.md",
-        "MatheMagics/Operations research/Inventory/Returns.md",
-        "MatheMagics/Operations research/Inventory/Review policy.md",
-        "MatheMagics/Operations research/Inventory/Safety stock (SS).md",
-        "MatheMagics/Operations research/Inventory/Sales - Shipments.md",
-        "MatheMagics/Operations research/Inventory/Seasonality - promo lift.md",
-        "MatheMagics/Operations research/Inventory/Sell-through.md",
-        "MatheMagics/Operations research/Inventory/Service constraints.md",
-        "MatheMagics/Operations research/Inventory/Service outcomes.md",
-        "MatheMagics/Operations research/Inventory/Single-echelon vs Multi-echelon.md",
-        "MatheMagics/Operations research/Inventory/State (stocks).md",
-        "MatheMagics/Operations research/Inventory/Lead time (LT).md",
-        "MatheMagics/Operations research/Inventory/State partitions.md",
-        "MatheMagics/Operations research/Inventory/System Structure & Feasibility (Planning Horizon).md",
-        "MatheMagics/Operations research/Inventory/Turns.md",
-        "MatheMagics/Operations research/Inventory/Unallocated.md",
-        "MatheMagics/Operations research/Inventory/Weeks of supply (WOS).md",
-        "MatheMagics/Operations research/Inventory/Work in progress (WIP).md",
-        "MatheMagics/Operations research/Inventory/MOQ - Case pack.md",
-        "MatheMagics/Operations research/Inventory/Core concepts (inventory).md"
+        "MatheMagics/Operations research/Supply Chain Management.md",
+        "MatheMagics/Operations research/Supply Chain Logistics.md"
       ],
       "sortOrder": "custom"
     },
@@ -878,285 +1485,6 @@
         "MatheMagics/Real Analysis/Topology of the number line/Upper bound.md",
         "MatheMagics/Real Analysis/Topology of the number line/Upper set properties.md"
       ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea": {
-      "children": [
-        "Miscellanea/Assets",
-        "Miscellanea/Resources"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets": {
-      "children": [
-        "Miscellanea/Assets/Graphs",
-        "Miscellanea/Assets/Graphs (desmos)",
-        "Miscellanea/Assets/Images",
-        "Miscellanea/Assets/Templates"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Graphs": {
-      "children": [
-        "Miscellanea/Assets/Graphs/Cosh(x).md",
-        "Miscellanea/Assets/Graphs/Sinh(x).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Graphs (desmos)": {
-      "children": [
-        "Miscellanea/Assets/Graphs (desmos)/Cosh(x).md",
-        "Miscellanea/Assets/Graphs (desmos)/Sinh(x).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Images": {
-      "children": [
-        "Miscellanea/Assets/Images/Pasted image 20260320153359.png",
-        "Miscellanea/Assets/Images/Pasted image 20260320154237.png",
-        "Miscellanea/Assets/Images/Pasted image 20260323045654.png",
-        "Miscellanea/Assets/Images/Pasted image 20260323045748.png",
-        "Miscellanea/Assets/Images/Pasted image 20260323160704.png",
-        "Miscellanea/Assets/Images/Pasted image 20260323162224.png",
-        "Miscellanea/Assets/Images/Pasted image 20260323172337.png",
-        "Miscellanea/Assets/Images/Pasted image 20260309173907.png",
-        "Miscellanea/Assets/Images/Pasted image 20260309192858.png",
-        "Miscellanea/Assets/Images/Pasted image 20260309193416.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023506 1.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023613 1.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023755 1.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109125525 1.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109125925 1.png",
-        "Miscellanea/Assets/Images/onHand_onOrder.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203130312.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203133315.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203133556.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203133605.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203134715.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203134724.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203134729.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203134735.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203134740.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203135538.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203135643.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203135957.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203140227.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203140658.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203140830.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203140945.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203141554.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203142347.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203142515.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203142656.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203142842.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203143653.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203143858.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203144120.png",
-        "Miscellanea/Assets/Images/Pasted image 20260203145534.png",
-        "Miscellanea/Assets/Images/Pasted image 20260205132333.png",
-        "Miscellanea/Assets/Images/stock 5.jpg",
-        "Miscellanea/Assets/Images/Pasted image 20260111162537.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111142000.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111142111.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111142255.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111145754.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111150159.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111150246.png",
-        "Miscellanea/Assets/Images/Pasted image 20260111150353.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023506.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023613.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109023755.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109125525.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109125925.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109161837.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109161859.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109172521.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109172914.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109183750.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109184336.png",
-        "Miscellanea/Assets/Images/Pasted image 20260106232727.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109010234.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109012030.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109012222.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109020359.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109020433.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109020519.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109020959.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109021047.png",
-        "Miscellanea/Assets/Images/Pasted image 20260109021901.png",
-        "Miscellanea/Assets/Images/Pasted image 20260106191347.png",
-        "Miscellanea/Assets/Images/Pasted image 20260106185759.png",
-        "Miscellanea/Assets/Images/Pasted image 20251213154607.png",
-        "Miscellanea/Assets/Images/Pasted image 20251218143734.png",
-        "Miscellanea/Assets/Images/Pasted image 20251218152334.png",
-        "Miscellanea/Assets/Images/Pasted image 20251213155120.png",
-        "Miscellanea/Assets/Images/Pasted image 20251215164521.png",
-        "Miscellanea/Assets/Images/Pasted image 20251212181502.png",
-        "Miscellanea/Assets/Images/Pasted image 20251212181601.png",
-        "Miscellanea/Assets/Images/Pasted image 20251212182648.png",
-        "Miscellanea/Assets/Images/Pasted image 20251212182925.png",
-        "Miscellanea/Assets/Images/Pasted image 20251212183651.png",
-        "Miscellanea/Assets/Images/figure84_no_text.png",
-        "Miscellanea/Assets/Images/Pasted image 20251130221921.png",
-        "Miscellanea/Assets/Images/Pasted image 20251130171557.png",
-        "Miscellanea/Assets/Images/Pasted image 20251130174156.png",
-        "Miscellanea/Assets/Images/Pasted image 20251130175401.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129211308.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129211659.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129211801.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129212222.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129212328.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129212647.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213113.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213205.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213302.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213332.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213435.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129213508.png",
-        "Miscellanea/Assets/Images/Pasted image 20251129214434.png",
-        "Miscellanea/Assets/Images/Trigono_sine_en2.svg",
-        "Miscellanea/Assets/Images/Trigonometric_functions_and_their_reciprocals_on_the_unit_circle.svg",
-        "Miscellanea/Assets/Images/40a26e0e-2373-466f-bc5a-884a9d9553a6_white.png",
-        "Miscellanea/Assets/Images/bb28cfa1-e068-4252-a19d-10c7345d5467_white.png",
-        "Miscellanea/Assets/Images/convergence_sketch_clean_v3.png",
-        "Miscellanea/Assets/Images/diagram_s_b_splus1.png",
-        "Miscellanea/Assets/Images/Gemini_Generated_Image_rzrjperzrjperzrj.png",
-        "Miscellanea/Assets/Images/image_white_bg_v2.png",
-        "Miscellanea/Assets/Images/Pasted image 20250903083513.png",
-        "Miscellanea/Assets/Images/Pasted image 20250903092012.png",
-        "Miscellanea/Assets/Images/Pasted image 20250903093823.png",
-        "Miscellanea/Assets/Images/Pasted image 20250905212902.png",
-        "Miscellanea/Assets/Images/Pasted image 20250906134118.png",
-        "Miscellanea/Assets/Images/Pasted image 20250906134242.png",
-        "Miscellanea/Assets/Images/Pasted image 20250919230830.png",
-        "Miscellanea/Assets/Images/Pasted image 20251012115329.png",
-        "Miscellanea/Assets/Images/Pasted image 20251105220820.png",
-        "Miscellanea/Assets/Images/peak_step_diagram_fixed.png",
-        "Miscellanea/Assets/Images/segment_midpoint_K_L_no_star.png"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Templates": {
-      "children": [
-        "Miscellanea/Assets/Templates/MOCs",
-        "Miscellanea/Assets/Templates/Math",
-        "Miscellanea/Assets/Templates/Planning"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Templates/Math": {
-      "children": [
-        "Miscellanea/Assets/Templates/Math/computationalMathematics_template.md",
-        "Miscellanea/Assets/Templates/Math/hyperbolicGeometry_template.md",
-        "Miscellanea/Assets/Templates/Math/euclideanGeometry_template.md",
-        "Miscellanea/Assets/Templates/Math/calculus_template.md",
-        "Miscellanea/Assets/Templates/Math/logic_template.md",
-        "Miscellanea/Assets/Templates/Math/real_analysis_template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Templates/MOCs": {
-      "children": [
-        "Miscellanea/Assets/Templates/MOCs/MOCs (mind map style).md",
-        "Miscellanea/Assets/Templates/MOCs/MOCs (nested indented bullet point style).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Assets/Templates/Planning": {
-      "children": [
-        "Miscellanea/Assets/Templates/Planning/Daily planner template.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources": {
-      "children": [
-        "Miscellanea/Resources/Windows 11 Navigation.md",
-        "Miscellanea/Resources/Mathematics project",
-        "Miscellanea/Resources/Schedule project",
-        "Miscellanea/Resources/Obsidian"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols",
-        "Miscellanea/Resources/Mathematics project/CSS snippets",
-        "Miscellanea/Resources/Mathematics project/CSS snippets 1",
-        "Miscellanea/Resources/Mathematics project/MOCs 1",
-        "Miscellanea/Resources/Mathematics project/MOCs"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/CSS snippets": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/CSS snippets/CSS snippet (vertical bar for H3 and H5).md",
-        "Miscellanea/Resources/Mathematics project/CSS snippets/CSS snippet (different bullets per nesting level).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/CSS snippets 1": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/CSS snippets 1/CSS snippet (different bullets per nesting level).md",
-        "Miscellanea/Resources/Mathematics project/CSS snippets 1/CSS snippet (vertical bar for H3 and H5).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/MOCs": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/MOCs/MOCs (nested indented bullet point style).md",
-        "Miscellanea/Resources/Mathematics project/MOCs/MOCs (mermaid style).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/MOCs 1": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/MOCs 1/MOCs (mermaid style).md",
-        "Miscellanea/Resources/Mathematics project/MOCs 1/MOCs (nested indented bullet point style).md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/Protocols": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT",
-        "Miscellanea/Resources/Mathematics project/Protocols/Gemini"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/Global",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/1.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/2.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/3.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/4.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/5.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/6.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/7.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/Global": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/Global/Mar 05, 2026.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/Global/Feb 16 2026.md",
-        "Miscellanea/Resources/Mathematics project/Protocols/ChatGPT/Global/Jan 11th 2026.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Mathematics project/Protocols/Gemini": {
-      "children": [
-        "Miscellanea/Resources/Mathematics project/Protocols/Gemini/1st.sync-conflict-20260319-204626-3X5DGWL.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Obsidian": {
-      "children": [
-        "Miscellanea/Resources/Obsidian/Callout types.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Miscellanea/Resources/Schedule project": {
-      "children": [],
       "sortOrder": "custom"
     }
   },

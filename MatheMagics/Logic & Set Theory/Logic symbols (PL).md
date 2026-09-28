@@ -1,5 +1,5 @@
 ---
-Outgoing:
+down:
   - "[[Connectives]]"
   - "[[Grouping symbols]]"
 tags:

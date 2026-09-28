@@ -10,3 +10,12 @@
 *.sync-conflict-*
 .obsidian/**/*-SC*.json
 .obsidian/**/*.backup*
+
+# Generated plugin backups and test state
+.obsidian/plugin-install-backups/
+.obsidian/plugins/*/data-backup*
+.obsidian/plugins/juggl/testing/
+
+# Generated Python bytecode
+__pycache__/
+*.py[cod]

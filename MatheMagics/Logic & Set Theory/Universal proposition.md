@@ -1,5 +1,5 @@
 ---
-Outgoing:
+down:
   - "[[Existential vs Universal (propositions)]]"
 tags:
   - mathemagics/mathematicalLogic_and_setTheory

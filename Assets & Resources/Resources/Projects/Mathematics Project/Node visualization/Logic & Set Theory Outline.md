@@ -1,0 +1,395 @@
+## Outline
+
+- LOGIC (N7b11a7a7ba)
+    - Object of study (and objects outside of its scope) (Nef1be2f382)
+        - Arguments (N6f73febc64)
+            - Constituent parts (arguments) (N343722aa63)
+                - Premises (N038ec0a188)
+                    - Conclusions (N97deaf3c60)
+                - Conclusions (N97deaf3c60) — SHARED reference
+            - Argument form (N096596ba26)
+        - Non-propositions (N93e4616202)
+            - Questions (Nd217ac35e5)
+            - Commands (N075a4b1096)
+            - Exclamations (Nae550405f4)
+            - Self-contradictions (Nb20f55b165)
+    - Constituent parts (Logic) (Nf291dfff1c)
+        - Alphabet (Ndc22a3230c)
+            - Symbol categories (N87a7912015)
+                - Logic symbols (Nc15bae269e)
+                    - Logic symbols (PL) (Ndcc393923c)
+                        - Connectives (N8236e0cc77)
+                            - Types of connectives (N884fa0c6e4)
+                                - Negation (N8b131d4c91)
+                                - Conjunction (N13f801eda8)
+                                    - Conjunction (Conj) (Ne5eb686bfe)
+                                - (Logical) Disjunction ⇔ Inclusive or (N32fb6f32f1)
+                                    - Exclusive disjunction Ã¢â€¡â€ XOR (Nfdd3c1ca63) — MISSING
+                                - Conditional or Material implication (N9dc1367d6b)
+                                    - Constituent parts (material implication) (N7c865229e1)
+                                    - Verbalizations (material implication) (Nf81296350a)
+                                        - Plain language (material implication) (Ndc5a9800f7)
+                                        - Mathematical language (material implication) (N83d9141080)
+                                            - Necessary (N282a502ccc)
+                                            - Sufficient (Nbe3cfdb7e3)
+                                    - Material implication + Logical Implication (Nde12b18fef)
+                                    - Notation (object language) (N4a2265a14e)
+                                        - Arrows (Object language vs Meta-language) (N9a788bcc8c)
+                                - Biconditional or Material equivalence (N2bd7915b41)
+                                    - Verbalization (material equivalence) (N6d237b2be3)
+                                        - Plain language (material equivalence) (N5bfbedc10f)
+                                        - Mathematical language (material equivalence) (Nefacbe598e)
+                                    - Material equivalence + Logical equivalence (N32e8b324f2)
+                                    - Notation (object language) (N4a2265a14e) — SHARED reference
+                            - Order of connectives (N83e995c41a)
+                        - Grouping symbols (Na3fef6da4c)
+                    - Logic symbols (FOL) (Ne460af0483)
+                        - Variable symbols (Nfa377b989b)
+                            - Variable symbols (what they do) (Na72d576fef)
+                                - Variable symbols take values in (Ned145c3a7d)
+                                    - Domain (N854318b1d4)
+                        - Connectives (N8236e0cc77) — SHARED reference
+                        - Quantifiers (N944503eca0)
+                            - Types of quantifiers (N344c1bf3a3)
+                                - Existential quantifier (Nc4f63413ca)
+                                    - Existential proposition (Nfc62141813)
+                                        - Existential vs Universal (propositions) (N33651001e8)
+                                            - (Existential and Universal propositions) vs (Existential and Universal formulas) (Nfeb73ae296)
+                                    - Existential formula (N5e700b32e6)
+                                        - Existential vs Universal (formula) (Nf0d9b487fe)
+                                            - (Existential and Universal propositions) vs (Existential and Universal formulas) (Nfeb73ae296) — SHARED reference
+                                    - Quantifier negation (QN) (N22c4520e20)
+                                        - Prenex normal form (Nc58f601990)
+                                - Universal quantifier (N59b64645ff)
+                                    - Universal proposition (N0ef0cf5418)
+                                        - Existential vs Universal (propositions) (N33651001e8) — SHARED reference
+                                    - Quantifier negation (QN) (N22c4520e20) — SHARED reference
+                                    - Universal formula (N7b62fe29bb)
+                                        - Existential vs Universal (formula) (Nf0d9b487fe) — SHARED reference
+                            - Quantifiers (what they do) (N384e0d16d8)
+                                - Quantifiers bind (Nc0dc60ebc7)
+                                    - Variable symbols (Nfa377b989b) — SHARED reference
+                        - Grouping symbols (Na3fef6da4c) — SHARED reference
+                        - Equality symbol (=) (N0f172f17d4)
+                - Theory symbols (Nf402563282)
+                    - Theory symbols (PL) (N10a06f5ef1)
+                        - Propositional variables (N6e2d1044c0)
+                            - Substitution (PL) (Naaa3196abb)
+                            - Assignment (PL) (Na504d51a6a)
+                                - Propositional form or ((wffs) or (PL-formula)) (Nb9e07efac3)
+                                    - Constituent parts (propositional forms) (N2d4d78844d)
+                                        - Propositional variables (N6e2d1044c0) — CYCLE reference
+                                    - Types of Propositions (in Propositional Form) (N7c67ba0f7e)
+                                        - Atoms (N8c3c585a96)
+                                            - Compound propositions (N8de04e443b)
+                                                - Atoms (N8c3c585a96) — CYCLE reference
+                                                - Grouping symbols (Na3fef6da4c) — SHARED reference
+                                                - Connectives (N8236e0cc77) — SHARED reference
+                                        - Compound propositions (N8de04e443b) — SHARED reference
+                                    - Propositional forms (wffs, PL-formulas) + Semantics (Nf93f0beec4)
+                                        - Truth valuations (Nbfbe7399d8)
+                                            - Outcomes (truth valuations) (N1cd1f9da0b)
+                                                - Tautology (Na9834e959f)
+                                                - Contradiction (N0182d545c6)
+                                                - Contingency (N9213798ee4)
+                                            - Limitations (truth valuations) (N3dbf100c0c)
+                                                - Solution (Limitation truth values) (Nad995a56ed)
+                                                    - Proof apparatus (Nb578645610)
+                                                        - Constituent parts (proof apparatus) (Nb5f715977d)
+                                                            - Assumptions (Nfc5c898308)
+                                                                - Axioms (N488846c9b7)
+                                                                    - Lemmas (N11188d4e4a)
+                                                                        - Theorems (N26dccb4db3)
+                                                                            - Corollaries (N3a6f3f9ad5)
+                                                                    - S + Axioms (Nb4941c1086)
+                                                                        - Common Math Theories (N841fed26cc)
+                                                                            - Set theory (ST) (Nd6c0baadc9)
+                                                                            - Number theory (NT) (Naeb7b49f09)
+                                                                                - Peano arithmetic (Nea325e7f44)
+                                                                                    - Extended Peano arithmetic (N021af1ca46)
+                                                                                - √2 ∉ ℚ (N7c8341a3e2) — EXTERNAL
+                                                                            - Group theory (GR) (N5260afd341)
+                                                                            - Ring theory (RI) (N993f30e194)
+                                                                                - Field theory (Ndb85a6ecac)
+                                                                                    - Ordered fields (N6ed17e61d6)
+                                                            - Derived results (from earlier results) (N03ea72738d)
+                                                                - Lemmas (N11188d4e4a) — SHARED reference
+                                                                - Corollaries (N3a6f3f9ad5) — SHARED reference
+                                                                - Theorems (N26dccb4db3) — SHARED reference
+                                                            - Proof rules (N6f1715de6f)
+                                                                - Inference (N44f44349f7)
+                                                                    - Inference rules (Nc02a351ebf)
+                                                                        - Inference rules (PL) (N73128dbe7f)
+                                                                            - Modus Ponens (MP) (N015f14db61)
+                                                                            - Modus Tollens (MT) (N2f8d1fa0dd)
+                                                                            - Constructive Dilemma (CD) (Nc679627cd3)
+                                                                            - Destructive Dilemma (DD) (Nae1e32d991)
+                                                                            - Disjunctive Syllogism (DS) (Ncde69a884e)
+                                                                            - Hypothetical Syllogism (HS) (N1603bedeb5)
+                                                                            - Conjunction (Conj) (Ne5eb686bfe) — SHARED reference
+                                                                            - Simplification (Simp) (Nc7ffd420ae)
+                                                                            - Addition (Add) (Nfcf8cfb5ee)
+                                                                            - (Direct Proof, DP) or (Conditional Proof) (Na6a5e3d245)
+                                                                            - Indirect proof (IP) (N9e20149eba)
+                                                                        - Inference rules (strictly FOL) (N4259349fe7)
+                                                                            - Universal instantiation (UI) (N9405500af6)
+                                                                            - Universal generalization (UG) (N2656e01312)
+                                                                            - Existential instantiation (EI) (N11448b5fc3)
+                                                                                - Fresh constant (N716b9a1c99)
+                                                                                - Particular constant (N805c023b3e)
+                                                                                    - Universal generalization (UG) (N2656e01312) — SHARED reference
+                                                                            - Existential generalization (EG) (N546d4cf133)
+                                                                    - Notation (meta-language) (N55f731877b)
+                                                                        - Arrows (Object language vs Meta-language) (N9a788bcc8c) — SHARED reference
+                                                                - Replacement (N42b5d97cfd)
+                                                                    - Replacement rules (Nf8c3941012)
+                                                                        - Replacement rules (PL) (N47c33eb076)
+                                                                        - Replacement rules (strictly FOL) (N72024f9f9a)
+                                                                            - Quantifier negation (QN) (N22c4520e20) — SHARED reference
+                                                                    - Notation (meta-language) (N55f731877b) — SHARED reference
+                                                        - Proof pipeline (axioms to corollaries) (Nad2093dc66)
+                                            - Proposition (Ne288b8a75b)
+                                                - Assignment (PL) (Na504d51a6a) — CYCLE reference
+                                                - Alphabet + Proposition (N1267c44791)
+                                                    - Propositional (form) alphabet (N6c99623ad1)
+                                                        - Metavariables (Nd9955efb55)
+                                                - Assignment (FOL) (Ne3fc086d33)
+                                                    - Standard FOL semantics (Ndd062a5981)
+                                                        - Proposition (Ne288b8a75b) — CYCLE reference
+                                                    - Assignment (FOL), accompanying note 1 (N561dd004d5)
+                                            - Truth tables (N6776293cf1)
+                                                - Examples (truth tables) (Nc0627f4744)
+                                    - Propositional forms (wffs, PL-formulas) + Syntactics (N4298c71432)
+                                        - Syntactic validity (Nb7d55e2c97)
+                                            - Inputs (syntactic validity) (N51e9e95332)
+                                                - Premises (N038ec0a188) — SHARED reference
+                                                - Conclusions (N97deaf3c60) — SHARED reference
+                                            - Output (syntactic validity) (N86a4fed806)
+                                                - Derivable (Ned6a808203)
+                                                - Not derivable (N0675502b56)
+                                    - Languages + wff (Nbc96dca25a)
+                                        - PL + wff (Nf488ec02f1)
+                                            - Propositional form or ((wffs) or (PL-formula)) (Nb9e07efac3) — CYCLE reference
+                                        - FOL + wff (N6511a7ba04)
+                                            - Formulas (FOL S-Formulas) (Nb03856b8eb)
+                                                - Constituent parts (S-Formulas) (Na1bd0e5671)
+                                                    - (S-terms) + (=) (N2d115863f9)
+                                                    - (S-terms) + (n-ary relation symbols) (N34fe38942d)
+                                                    - (S-formula) + (Connectives) (Nbe55f876dd)
+                                                    - (Variable bound to Quantifier) + (S-formula) (Nee1529cb47)
+                                                - Substitution in Formulas (N71236d77a3)
+                                            - Terms (S-Terms) (N07c3175df8)
+                                                - Constituent parts (S-terms) (N72e44f0122)
+                                                    - Variable symbols (Nfa377b989b) — SHARED reference
+                                                    - Constants (N045ec4446e)
+                                                    - N-ary function symbols (applied to) (N247bdd0385)
+                                                        - Terms (S-Terms) (N07c3175df8) — CYCLE reference
+                                                - Substitution in terms (N2f187e46d9)
+                                    - Proving propositional forms (N642d44b91c)
+                                        - Examples (truth tables) (Nc0627f4744) — SHARED reference
+                                - Assignment operator (≔) (N4a738bf524)
+                                    - Propositional Form ↦ English (Nfec8074983)
+                    - Theory symbols, S (FOL) (N191e852926)
+                        - Constituent parts (Theory Symbols, S) (N9ee567316b)
+                            - Constants (N045ec4446e) — SHARED reference
+                            - N-ary relation symbols (Ndff437b1eb)
+                                - Unary predicates (N555f0a085c)
+                                - Higher-arity predicates (N775d1ad8c9)
+                            - N-ary function symbols (Ne2d2330398)
+                                - Terms (S-Terms) (N07c3175df8) — SHARED reference
+                        - Extending Theory Symbols (N417a250dc4)
+                            - S + Axioms (Nb4941c1086) — SHARED reference
+            - Alphabet + Grammar (N16e0e0ec57)
+                - Language (Mathematics) (Nfcbf9ae23a)
+                    - First-order language (FOL) (N830334678e)
+                        - Alphabet, A (FOL) (N91fd777b26)
+                            - Theory symbols, S (FOL) (N191e852926) — SHARED reference
+                            - Logic symbols (FOL) (Ne460af0483) — SHARED reference
+                    - Second-order language (SOL) (N730d9ae853)
+                        - Alphabet (SOL) (N3a0b4f6385)
+                    - Strings + Language (N8b0d9dab43)
+                        - (Propositional form PL) or (Propositional skeleton FOL) (N2218f4fcb9)
+                            - Strings (PL) (Nfb993149f3)
+                                - Propositional form or ((wffs) or (PL-formula)) (Nb9e07efac3) — SHARED reference
+                            - Strings (FOL) (N8a53802397)
+                                - Formulas (FOL S-Formulas) (Nb03856b8eb) — SHARED reference
+                                - Terms (S-Terms) (N07c3175df8) — SHARED reference
+                    - Propositional language (PL) (N81075ee591)
+                        - Alphabet (PL) (N2f79a80bfd)
+                            - Logic symbols (PL) (Ndcc393923c) — SHARED reference
+                            - Theory symbols (PL) (N10a06f5ef1) — SHARED reference
+            - Alphabet's output (N60438b2dfc)
+                - Strings (Nd823c18c09)
+                    - Classification by grammar (strings) (N054c23b6a8)
+                        - (Non-propositional form) or (~wffs) (N7d3a9174d0)
+                        - PL + wff (Nf488ec02f1) — SHARED reference
+                    - Strings + Language (N8b0d9dab43) — SHARED reference
+            - Alphabet + Proposition (N1267c44791) — SHARED reference
+        - Semantics (Nd72589cc92)
+            - Semantic + Languages (N8b8d60b4f0)
+                - Semantic + PL (N2df94b3b14)
+                    - Proposition (Ne288b8a75b) — SHARED reference
+                    - Propositional variables (N6e2d1044c0) — SHARED reference
+                - Semantic + FOL (Nb3d2862727)
+                    - Assignment (FOL) (Ne3fc086d33) — SHARED reference
+                    - Proposition (Ne288b8a75b) — SHARED reference
+            - Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization (N4a8ebea501) — MISSING
+            - Semantic validity (N1c3da60760)
+                - Inputs (semantic validity) (N412a4d12fb)
+                    - Premises (N038ec0a188) — SHARED reference
+                    - Conclusions (N97deaf3c60) — SHARED reference
+                - Outputs (semantic validity) (N8b952f35c6)
+        - (Syntactics) or (Syntax) (N5597dd5c3e)
+            - Syntactic reasoning (N603cf48944)
+                - Inference (N44f44349f7) — SHARED reference
+                - Replacement (N42b5d97cfd) — SHARED reference
+            - Constituent parts (syntax) (N8da5b86a4c)
+                - Strings (Nd823c18c09) — SHARED reference
+            - Syntactic validity (Nb7d55e2c97) — SHARED reference
+            - Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization (N4a8ebea501) — MISSING
+    - Types of Logic (Nc6a8990fb8)
+        - Deductive Logic (N65ef752e89)
+            - Mathematical Logic (N99e2ea6953)
+                - First-order logic (FOL) (N99d008aeb9)
+                    - Types of validity (N87adb0d8a7)
+                        - Semantic validity (N1c3da60760) — SHARED reference
+                        - Syntactic validity (Nb7d55e2c97) — SHARED reference
+                    - Structure of FOL (N710ae05b85)
+                        - Subjects (Nfe57916d50)
+                            - Subject vs Predicate (Ne803ad4ddc)
+                            - Quantifiers (N944503eca0) — SHARED reference
+                            - Variable symbols (Nfa377b989b) — SHARED reference
+                        - Predicates (Nb11df30b78)
+                            - Subject vs Predicate (Ne803ad4ddc) — SHARED reference
+                            - Arity predicates (Ndca17b2b21)
+                                - Unary predicates (N555f0a085c) — SHARED reference
+                                - Higher-arity predicates (N775d1ad8c9) — SHARED reference
+                        - Relationships (N36422420e2)
+                - Propositional logic (PL) (Nb1ec005306)
+                    - Types of validity (N87adb0d8a7) — SHARED reference
+                    - Properties (PL) (N0e8c25a5a5)
+                        - Consistency (Na040dc1f1d)
+                        - Soundness (N446e3cabfc)
+                        - Completeness (Nf30c38d354)
+            - Other types of deductive logic (Nc8a6ab9932)
+                - Modal Logic (N432992459b)
+                - Deontic Logic (N0252da04b3)
+                - Epistemic Logic (N42899f23ef)
+        - Non-deductive Logic (N43b245fcbc)
+            - Inductive Logic (N51ddf2b9e4)
+                - Types of inductive logic (N0591712e64)
+                    - Statistical inference (N359a63c90f)
+                        - Frequentist Methods (Ne29e7dc751)
+                        - Bayesian statistics (Nf3ef2bc498)
+                    - Probabilistic or Bayesian Confirmation (Ne8d8d7ffc7)
+                    - Non-probabilistic Plausibility Frameworks (N7e1a382ce7)
+                    - Analogical Logic (N3b209bbc8e)
+            - Abductive Logic (N9203195e97)
+- Antecedent (N86f2e4d7d2)
+- Arbitrary constant (Nf9e5975ee1)
+    - Universal generalization (UG) (N2656e01312) — SHARED reference
+- Assignment (FOL), accompanying note 2 (N19805eabf5)
+- Associativity Laws (Assoc) (Nf9fb82b9f9)
+- Biconditionals (N75d51ea268)
+- Closed formula (Nf79fa145ab)
+    - Parametrizing a formula by its FVs (Nd63b3211da)
+        - Simultaneous substitution (Nfd4efe96af)
+- Common names (indirect proof) (N92776aaae2)
+    - Proof by contradiction (Nbf422625ba) — MISSING
+    - Reduction ad absurdum (N0c6abdc2aa) — MISSING
+- Commutative Laws (Com) (N415c8ab816)
+- Conditionals (N878b96d38b)
+- Consequent (Nc0ea76d9f9)
+- Contrapositive Law (Contra) (N500ea4802a)
+- De Morgan's Law (DeM) (N6a366c8e34)
+- Distributive Laws (Distr) (Naac355edb7)
+- Double negation (DN) (Nb7a06997e4)
+- Examples (indirect proof) (N5d4c62881d)
+- Examples (UI, UG, EI, EG) (N30f25983e4)
+    - Universal instantiation (UI) (N9405500af6) — SHARED reference
+    - Universal generalization (UG) (N2656e01312) — SHARED reference
+    - Existential instantiation (EI) (N11448b5fc3) — SHARED reference
+    - Existential generalization (EG) (N546d4cf133) — SHARED reference
+    - Continuity (function) (Nbdb6d7962d) — EXTERNAL
+- Exclusive disjunction ⇔ XOR (N9b5dcca040)
+- Exportation (Exp) (Nba5cb6289a)
+- Frege–Łukasiewicz (axioms) (N74ee6098b3)
+- Grammar (N46f2bb9866)
+    - Alphabet + Grammar (N16e0e0ec57) — SHARED reference
+    - Grammar acts on (N44cb598d32)
+        - Strings (Nd823c18c09) — SHARED reference
+    - Propositional form or ((wffs) or (PL-formula)) (Nb9e07efac3) — SHARED reference
+- Idempotency (Idem) (N17b5e597f0)
+- Logical and Mathematical symbols (N5590e3fd3c)
+    - Relations (N3e7e55939d) — MISSING
+    - Operators (N9bb9b4689c) — MISSING
+- Logical equivalence (Ne7def16fab)
+    - Material equivalence + Logical equivalence (N32e8b324f2) — SHARED reference
+- Logical implication (N845f5e6c47)
+    - Material implication + Logical Implication (Nde12b18fef) — SHARED reference
+- Material Equivalence (Equiv) (N5fa909c209)
+- Math definition (Indirect proof) (Na2ec1ca098)
+- Notation (MatheMagics) (Na83b93065f)
+    - Assignment operator (≔) (N4a738bf524) — SHARED reference
+    - Equality symbol (=) (N0f172f17d4) — SHARED reference
+    - Glyphs, Letters & Symbols (N86be76b189)
+        - Fraktur capitals (N5a976e8cf8)
+            - A (N8b0b6de44d)
+        - Greek alphabet (N300fe6799e)
+    - Definitional equivalence (≡) (Na9610c2ace)
+- Occurrences (N71b67bc890)
+    - Free & Bound variable occurrences (N77c3957613)
+        - Free variables (FVs) (N7ef9938aa0)
+            - (S-Sentence) or (Closed Formula) or (Sentence) (N22c058e0aa)
+            - Set of FVs (Nd81cacb6e7)
+                - Parametrizing a formula by its FVs (Nd63b3211da) — SHARED reference
+            - Parametrizing a formula by its FVs (Nd63b3211da) — SHARED reference
+        - Bound variables (N17791c5a6b)
+            - Substitution under Quantifier (Na0c2197ad4)
+                - Substitution in Formulas (N71236d77a3) — SHARED reference
+                - Set of FVs (Nd81cacb6e7) — SHARED reference
+- Page 73, SOL (N49a59e55e9)
+- Pages 68, 69 (Nefd0f374dc)
+- Proof thm. 1.5.2 (N0053ebef3b)
+- Proof thm. 1.5.4 (N6cfb4f42ef)
+- Proof thm. 2.3.14 (Ndef00e9165)
+- Predicate Logic (PL) (N5e12e75a57)
+    - PL + wff (Nf488ec02f1) — SHARED reference
+- Preliminary Definition 1 (consistency) (Nd0a34d9b57)
+    - Compactness thm. (N230720286d)
+        - Consistency (Na040dc1f1d) — SHARED reference
+- Preliminary definition 2 (consistency) (N9d2e00900d)
+    - Consistency (Na040dc1f1d) — SHARED reference
+- Proof (indirect proof) (Ne734ac2f41)
+- Propositions (FOL) (N40e7cd705d)
+    - Existential proposition (Nfc62141813) — SHARED reference
+    - Universal proposition (N0ef0cf5418) — SHARED reference
+- Proving methods 1 (N73e2b9b0f2)
+    - Proving methods (propositional logic) (N4944bd17cd)
+        - (Direct Proof, DP) or (Conditional Proof) (Na6a5e3d245) — SHARED reference
+        - Indirect proof (IP) (N9e20149eba) — SHARED reference
+    - Proving methods (FOL) (N65e439c498)
+- Proving methods (N610887a26e)
+    - Proving methods (propositional logic) (N4944bd17cd) — SHARED reference
+    - Proving methods (FOL) (N65e439c498) — SHARED reference
+- Subproof(s) (Nd54251db68)
+- Substitution (N049a1e3ca2)
+    - Substitution (PL) (Naaa3196abb) — SHARED reference
+    - Substitution (FOL) (Nde8c70f724)
+        - Free variables (FVs) (N7ef9938aa0) — SHARED reference
+        - Substitution in terms (N2f187e46d9) — SHARED reference
+        - Substitution in Formulas (N71236d77a3) — SHARED reference
+        - Simultaneous substitution (Nfd4efe96af) — SHARED reference
+        - Substitution in quantifiers (N5ae18db972)
+            - Universal instantiation (UI) (N9405500af6) — SHARED reference
+            - Universal generalization (UG) (N2656e01312) — SHARED reference
+        - Terms (S-Terms) (N07c3175df8) — SHARED reference
+- Symbolization or Formalization (FOL) (Naa897adf90)
+    - Propositional form or ((wffs) or (PL-formula)) (Nb9e07efac3) — SHARED reference
+- Theory (N7074993741)
+    - Theory symbols (Nf402563282) — SHARED reference
+    - Axioms (N488846c9b7) — SHARED reference
+    - Theorems (N26dccb4db3) — SHARED reference
+- Unit circle vs unit hyperbola (Ne05b7020fb)
+- With premises (N2d9e55c9b4)
+- Without premises (N23290811d3)

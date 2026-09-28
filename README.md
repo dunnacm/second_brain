@@ -43,14 +43,17 @@ Representative subareas include:
 
 Within these folders, notes are often granular and atomic. A single concept, theorem, symbol family, example, or proof pattern may live in its own file.
 
-### `Miscellanea/`
-Supporting resources, reference materials, and process documents. This includes project protocols and notes about writing systems, formatting rules, and workflow conventions.
+### `Assets & Resources/`
+Images, templates, reference materials, and project protocols that support the main notes.
+
+### `Lexicon/`
+Language and concept notes organized as a linked reference collection.
 
 ### `Ideas/`
 A lighter capture area for open-ended ideas and future development.
 
 ### Root-level notes
-The vault also contains standalone notes at the root, including glossary-like or reference-style notes such as `Notation.md` and concept notes such as `Assignment operator.md`.
+The vault also contains standalone notes at the root, including `Unit circle vs unit hyperbola.md`.
 
 ## Note conventions
 

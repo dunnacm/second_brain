@@ -12,7 +12,7 @@
   "showQuickSwitcherIcons": true,
   "showMoveFileIcons": true,
   "showItemName": "desktop",
-  "biggerSearchResults": "mobile",
+  "useSearchKeywords": "on",
   "maxSearchResults": 50,
   "colorPicker1": "list",
   "colorPicker2": "rgb",
@@ -20,7 +20,6 @@
   "uncolorDrag": false,
   "uncolorSelect": false,
   "uncolorQuick": false,
-  "rememberDeletedItems": false,
   "maxBackups": 5,
   "dialogState": {
     "iconMode": true,
@@ -30,6 +29,22 @@
   "appIcons": {},
   "tabIcons": {},
   "fileIcons": {
+    "Assets & Resources": {
+      "icon": "lucide-folder",
+      "unsynced": [
+        "7436aa4701b58e62",
+        "af7b4a8bf2239de1",
+        "c39cc75472a3c816",
+        "a1ff944b7ddff69a",
+        "9535c8e3bf3267ea",
+        "e69e70743f016a6d",
+        "e161fce8476684c1",
+        "aa2c3c88cf4aeb7c",
+        "/storage/emulated/0/Documents",
+        "5b27a0b7ae38890b"
+      ],
+      "color": "cyan"
+    },
     "Ideas": {
       "icon": "lucide-quote",
       "unsynced": [
@@ -38,7 +53,7 @@
         "/storage/emulated/0/Documents"
       ]
     },
-    "Language": {
+    "Lexicon": {
       "icon": "📖",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
@@ -158,22 +173,6 @@
         "/storage/emulated/0/Documents",
         "5b27a0b7ae38890b"
       ]
-    },
-    "Miscellanea": {
-      "icon": "lucide-folder",
-      "unsynced": [
-        "7436aa4701b58e62",
-        "af7b4a8bf2239de1",
-        "c39cc75472a3c816",
-        "a1ff944b7ddff69a",
-        "9535c8e3bf3267ea",
-        "e69e70743f016a6d",
-        "e161fce8476684c1",
-        "aa2c3c88cf4aeb7c",
-        "/storage/emulated/0/Documents",
-        "5b27a0b7ae38890b"
-      ],
-      "color": "cyan"
     }
   },
   "bookmarkIcons": {},
@@ -263,5 +262,7 @@
       "enabled": true,
       "color": "cyan"
     }
-  ]
+  ],
+  "biggerSearchResults": "mobile",
+  "rememberDeletedItems": false
 }

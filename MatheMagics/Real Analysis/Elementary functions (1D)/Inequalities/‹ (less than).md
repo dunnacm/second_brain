@@ -218,63 +218,33 @@ $x<0$ or $x=0$ or $x>0$ (exactly one holds).
 > > $$\dfrac{x}{z}<\dfrac{y}{w}$$
 
 > [!abstract]+
-
 > > [!info]+ Constants
-
 > > - **Addition & subtraction**:
-
 > > >$x<y \Rightarrow x \pm c < y \pm c,\quad c\in\mathbb{R}.$
-
 > > - **Multiplication (& division)**:
-
 > > > $x<y \Rightarrow \lvert c\rvert\,x < \lvert c\rvert\,y.$
-
 > > > $x<y \Rightarrow -\,\lvert c\rvert\,x > -\,\lvert c\rvert\,y.$
-
 >
-
 > > [!info]+ **Addition & subtraction** of inequalities
-
 > > - **Addition**:
-
 > > > $$\begin{aligned}
-
 > > > &x_{0}<y_{0}\\
-
 > > > &\vdots\\
-
 > > > &x_{N}<y_{N}
-
 > > > \end{aligned}
-
 > > > \;\Rightarrow\;
-
 > > > \sum_{n=0}^{N} x_{n} \;<\; \sum_{n=0}^{N} y_{n}. $$
-
 > > - **Subtraction**:
-
 > > > $\begin{aligned}&x<y,\\&w<z\end{aligned} \Rightarrow x-z<y-z$
-
 >
-
 > > [!info]+ **Multiplication & division** of inequalities
-
 > > - **Multiplication**:
-
 > > > $$\begin{aligned}
-
 > > > &0<x_{0}<y_{0}\\
-
 > > > &\vdots\\
-
 > > > &0<x_{N}<y_{N}
-
 > > > \end{aligned}
-
 > > > \;\Rightarrow\;
-
 > > > \prod_{n=0}^{N} x_{n} \;<\; \prod_{n=0}^{N} y_{n}. $$
-
 > > - **Division (quotient monotonicity)**:
-
 > > > $$\begin{aligned}&0<x<y,\\&0<w<z\end{aligned}\Rightarrow \dfrac{x}{z}<\dfrac{y}{w}.$$

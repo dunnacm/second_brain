@@ -1,5 +1,5 @@
 ---
-Outgoing:
+down:
   - "[[Logic symbols (PL)]]"
   - "[[Theory symbols (PL)]]"
 tags:

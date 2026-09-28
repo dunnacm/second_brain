@@ -1,5 +1,5 @@
 ---
-Outgoing:
+down:
   - "[[Universal proposition]]"
   - "[[Quantifier negation (QN)]]"
   - "[[Universal formula]]"

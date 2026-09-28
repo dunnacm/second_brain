@@ -1,5 +1,5 @@
 ---
-Outgoing:
+down:
   - "[[Free variables (FVs)]]"
   - "[[Substitution in terms]]"
   - "[[Substitution in Formulas]]"

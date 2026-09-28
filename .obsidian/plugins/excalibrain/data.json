@@ -232,8 +232,6 @@
     "Next": {}
   },
   "navigationHistory": [
-    "MatheMagics/Logic & Set Theory/1. Propositional Logic/1.1 - 1.4/Comprising parts (Logic).md",
-    "MatheMagics/Logic & Set Theory/2. First-Order Logic/2.1 - 2.2/Alphabet (FOL) (A).md",
     "MatheMagics/Logic & Set Theory/2. First-Order Logic/2.1 - 2.2/Alphabet (propositional logic).md",
     "MatheMagics/Logic & Set Theory/2. First-Order Logic/2.1 - 2.2/Logic symbol(s) (propositional logic).md",
     "MatheMagics/Logic & Set Theory/2. First-Order Logic/2.1 - 2.2/Theory symbol(s) (propositional logic).md",
@@ -281,7 +279,9 @@
     "MatheMagics/Logic & Set Theory/1 & 2/(Propositional sentence) or (Proposition).md",
     "(Propositional sentence) or (Proposition).md.md",
     "MatheMagics/Logic & Set Theory/1 & 2/Proposition.md",
-    "MatheMagics/Logic & Set Theory/1 & 2/(Propositional form) or ((wffs) or (PL-formula)).md"
+    "MatheMagics/Logic & Set Theory/1 & 2/(Propositional form) or ((wffs) or (PL-formula)).md",
+    "MatheMagics/Logic & Set Theory/Arguments.md",
+    "MatheMagics/Logic & Set Theory/Premises.md"
   ],
   "allowOntologySuggester": true,
   "ontologySuggesterParentTrigger": "::p",
