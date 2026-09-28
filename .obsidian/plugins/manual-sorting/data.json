@@ -208,20 +208,20 @@
     },
     "Assets & Resources/Resources/Projects": {
       "children": [
-        "Assets & Resources/Resources/Projects/Lexicon",
+        "Assets & Resources/Resources/Projects/Archive",
         "Assets & Resources/Resources/Projects/Mathematics Project"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Lexicon": {
+    "Assets & Resources/Resources/Projects/Archive": {
       "children": [
-        "Assets & Resources/Resources/Projects/Lexicon/Archive"
+        "Assets & Resources/Resources/Projects/Archive/Lexicon"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Lexicon/Archive": {
+    "Assets & Resources/Resources/Projects/Archive/Lexicon": {
       "children": [
-        "Assets & Resources/Resources/Projects/Lexicon/Archive/vocabulary_system_obsidian_footnotes_fixed.md"
+        "Assets & Resources/Resources/Projects/Archive/Lexicon/vocabulary_system_obsidian_footnotes_fixed.md"
       ],
       "sortOrder": "custom"
     },

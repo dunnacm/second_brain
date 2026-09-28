@@ -168,7 +168,7 @@ If moving to another machine or a genuinely different repository, establish the 
 ## Latest session record
 
 **Date:** 2026-09-27.
-**Completed:** fetched `origin/main`, reviewed the vault reorganization and Obsidian plugin changes, updated the repository guide and ignore rules, and prepared the intended changes for a commit on `main`.
+**Completed:** fetched `origin/main`, reviewed and committed the vault reorganization and Obsidian plugin changes, and updated the repository guide and ignore rules. A later exact-content move placed the Lexicon archive note under `Projects/Archive/Lexicon`; the matching Obsidian sorting setting was saved with it.
 **Preserved:** 86 locally absent notes remain in GitHub's history and current branch, including 75 inventory notes, pending mathematics notes, language and graph notes. Their local deletions remain unstaged because their removal was not established as intentional. Generated plugin backups, test state, and Python bytecode remain local and ignored.
 **Repository state:** `main` and `origin/main` matched at `c5608fe` before this update. A stale Git lock from September 16 was removed after confirming no Git process was running.
 **Publication status:** committed and pushed the reviewed changes to `origin/main`; use Git log for the final commit ID and verify the local and remote branch IDs after any future update.
