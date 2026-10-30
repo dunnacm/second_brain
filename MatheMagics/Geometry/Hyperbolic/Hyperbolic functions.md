@@ -8,7 +8,7 @@ tags:
   - mathemagics/calculus
   - mathemagics/real_analysis
   - mathemagics/geometry/hyperbolic
-Outgoing:
+
 ---
 ```dataviewjs
 // Auto-MOC from frontmatter `down:`

@@ -3,7 +3,7 @@ down:
   - "[[Inference rules]]"
   - "[[Notation (meta-language)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Fundamentals:
 Is deriving a **conclusion** from one or more **premises** 

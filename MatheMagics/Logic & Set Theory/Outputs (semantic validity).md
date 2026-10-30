@@ -1,6 +1,6 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Semantics (given a valuation v) outputs **T/F** for **propositional forms**

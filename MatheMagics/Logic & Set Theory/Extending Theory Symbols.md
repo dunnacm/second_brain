@@ -2,7 +2,7 @@
 down:
   - "[[S + Axioms]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 > [!note]+ **Extending a Theory-Symbol Set**
 >

@@ -2,7 +2,7 @@
 down:
   - "[[Examples (truth tables)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 To prove a **string** is a **propositional form**, one decomposes it to form a parsing tree and ensures the formation sequence of the propositional form 
 

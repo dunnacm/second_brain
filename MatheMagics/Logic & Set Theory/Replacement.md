@@ -3,7 +3,7 @@ down:
   - "[[Replacement rules]]"
   - "[[Notation (meta-language)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 

@@ -5,7 +5,7 @@ down:
   - "[[Exclamations]]"
   - "[[Self-contradictions]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 If a sentence asserts or denies accurately, the sentence is **true**.
 If a sentence asserts or denies inaccurately, the sentence is **false**.

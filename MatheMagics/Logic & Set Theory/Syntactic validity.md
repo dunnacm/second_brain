@@ -3,7 +3,7 @@ down:
   - "[[Inputs (syntactic validity)]]"
   - "[[Output (syntactic validity)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 When the **conclusions** can be derived from the **premises** using the **proof apparatus**.  

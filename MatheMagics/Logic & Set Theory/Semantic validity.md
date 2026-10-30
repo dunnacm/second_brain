@@ -3,7 +3,7 @@ down:
   - "[[Inputs (semantic validity)]]"
   - "[[Outputs (semantic validity)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 ### Verbal

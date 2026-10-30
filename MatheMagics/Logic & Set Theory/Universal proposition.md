@@ -2,7 +2,7 @@
 down:
   - "[[Existential vs Universal (propositions)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 A formula of the form ∀x φ(x) is an **universal proposition**.

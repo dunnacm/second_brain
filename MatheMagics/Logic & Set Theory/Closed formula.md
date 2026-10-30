@@ -2,7 +2,7 @@
 down:
   - "[[Parametrizing a formula by its FVs]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 A **closed formula** (also called a **sentence**) is a formula with **no free variables**.

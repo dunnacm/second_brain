@@ -2,7 +2,7 @@
 down:
   - "[[Propositional form or ((wffs) or (PL-formula))]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Goal
 **Symbolization** in first-order logic (FOL) is the process of translating an informal statement about objects and their relationships into an **FOL formula** (S-formula), often a **sentence** (closed formula) when the result is meant to be a complete statement.

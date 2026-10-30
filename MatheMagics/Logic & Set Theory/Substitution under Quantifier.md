@@ -3,8 +3,8 @@ down:
   - "[[Substitution in Formulas]]"
   - "[[Set of FVs]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
-cssclasses:
+  - mathemagics/logic_and_set_theory
+
 ---
 ## Introduction:
 ### Definition:

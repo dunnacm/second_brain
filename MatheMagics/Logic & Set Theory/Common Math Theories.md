@@ -5,6 +5,6 @@ down:
   - "[[Group theory (GR)]]"
   - "[[Ring theory (RI)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 	

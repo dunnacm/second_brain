@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 **A** & **B** share properties **p, q, r**, **A** has a property **s** ⟹ **B** has property **s**.

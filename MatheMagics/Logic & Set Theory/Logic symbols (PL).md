@@ -3,7 +3,7 @@ down:
   - "[[Connectives]]"
   - "[[Grouping symbols]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Logic symbols (logical vocabulary) for propositional logic: 
 - [[Connectives]]

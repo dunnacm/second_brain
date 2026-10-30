@@ -2,7 +2,7 @@
 down:
   - "[[Conjunction (Conj)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Proposition formed by combining two propositions (conjuncts) with the connective word "and": p $\land$ q
 

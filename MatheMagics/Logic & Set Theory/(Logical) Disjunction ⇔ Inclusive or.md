@@ -2,7 +2,7 @@
 down:
   - "[[Exclusive disjunction Ã¢â€¡â€ XOR]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Core idea
 

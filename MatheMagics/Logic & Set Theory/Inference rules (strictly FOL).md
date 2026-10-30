@@ -5,7 +5,7 @@ down:
   - "[[Existential instantiation (EI)]]"
   - "[[Existential generalization (EG)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 - [[Universal instantiation (UI)]]
 - [[Universal generalization (UG)]]

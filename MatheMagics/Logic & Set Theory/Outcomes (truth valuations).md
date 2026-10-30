@@ -4,7 +4,7 @@ down:
   - "[[Contradiction]]"
   - "[[Contingency]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Types of results from truth valuations:
 -  Tautology

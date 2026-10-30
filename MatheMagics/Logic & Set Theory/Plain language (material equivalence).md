@@ -1,6 +1,6 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 **A** is *necessary* and *sufficient* for **B**

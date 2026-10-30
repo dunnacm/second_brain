@@ -3,7 +3,7 @@ down:
   - "[[Free variables (FVs)]]"
   - "[[Bound variables]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 

@@ -2,7 +2,7 @@
 down:
   - "[[(Existential and Universal propositions) vs (Existential and Universal formulas)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Existential propositions vs Universal propositions
 

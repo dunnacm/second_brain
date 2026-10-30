@@ -2,7 +2,7 @@
 down:
   - "[[Parametrizing a formula by its FVs]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 For a term or formula, **FV( . )** denotes the set of **free variables**.

@@ -2,7 +2,7 @@
 down:
   - "[[Types of inductive logic]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Etymology
 The adjective **inductive** traces back to **Late Latin** _**inductivus**_, meaning “serving to induce or infer,” built from **inducere** — _in_ (“into”) + _ducere_ (“to lead”).

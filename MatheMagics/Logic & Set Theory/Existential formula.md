@@ -2,7 +2,7 @@
 down:
   - "[[Existential vs Universal (formula)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition (syntactic)
 An **existential formula** is a formula of first-order logic that begins with an existential quantifier.  

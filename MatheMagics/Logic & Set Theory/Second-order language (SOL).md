@@ -2,7 +2,7 @@
 down:
   - "[[Alphabet (SOL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 # Second-order language (SOL)
 

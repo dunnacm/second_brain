@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Core idea (inference to the best explanation)
 **Abductive logic** studies inference patterns where one moves from an observed fact to a **hypothesis that would explain it**.

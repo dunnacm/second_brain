@@ -1,6 +1,6 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 $p \equiv q$ can be read as $\vDash\, p \leftrightarrow q.$

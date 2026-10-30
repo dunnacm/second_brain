@@ -1,9 +1,8 @@
 ---
-up:
 down:
   - "[[Propositional variables]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Preface
 Terminology note (following O’Leary): in FOL, the subject-specific nonlogical vocabulary is explicitly called **theory symbols** (constant symbols, function symbols, predicate symbols).

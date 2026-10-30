@@ -3,7 +3,7 @@ down:
   - "[[Assignment (FOL)]]"
   - "[[Proposition]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 By themselves, wffs are purely **syntactic** strings, so they do not have an (assignment-independent) truth value.  
 Once an **interpretation/structure** $\mathcal{M}$ is given (a domain $D$ + meanings for the **theory symbols**), and—when needed—a **variable assignment** $s$ (mapping variables to elements of $D$), a wff can be understood as a formula about objects in the domain.

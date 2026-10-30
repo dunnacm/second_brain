@@ -3,5 +3,5 @@ down:
   - "[[Plain language (material equivalence)]]"
   - "[[Mathematical language (material equivalence)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

@@ -2,7 +2,7 @@
 down:
   - "[[Alphabet, A (FOL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## **Alphabet** includes:
 - **Logical symbols:** $¬, ∧, ∨, →, ↔, ∀, ∃, =, x_0, x_1, \dots$ 

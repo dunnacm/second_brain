@@ -2,7 +2,7 @@
 down:
   - "[[Propositional Form ↦ English]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Assignment operator (`:=`)
 

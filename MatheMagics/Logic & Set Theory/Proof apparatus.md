@@ -3,7 +3,7 @@ down:
   - "[[Constituent parts (proof apparatus)]]"
   - "[[Proof pipeline (axioms to corollaries)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Fundamentals:
 

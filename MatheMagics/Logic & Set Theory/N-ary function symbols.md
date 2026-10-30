@@ -1,9 +1,8 @@
 ---
-up:
 down:
   - "[[Terms (S-Terms)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 An **$n$-ary function symbol** $f$ is a **theory symbol** in FOL intended to denote an operation that takes **$n$ elements from the domain** and returns **one subject in the domain**.

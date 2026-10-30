@@ -1,4 +1,4 @@
-> [!note]+ **Property**
+![[Untitled 2026-09-30 21.38.05.excalidraw]]> [!note]+ **Property**
 > > [!warning]+ **IF**
 > > - $$
 > > \begin{aligned}

@@ -4,7 +4,7 @@ down:
   - "[[Set of FVs]]"
   - "[[Parametrizing a formula by its FVs]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 > [!note]+ **2.2.5**

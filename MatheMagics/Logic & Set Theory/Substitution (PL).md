@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 **Substitution** in propositional logic (PL) is the process of **==uniformly== replacing propositional variables in a propositional form by propositional forms**, producing a new propositional form.

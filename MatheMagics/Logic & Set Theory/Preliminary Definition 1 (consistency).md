@@ -1,7 +1,7 @@
 ---
 down: "[[Compactness thm.]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Consistency (definition 1.5.1)
 

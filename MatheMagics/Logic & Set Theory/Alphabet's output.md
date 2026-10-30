@@ -2,6 +2,6 @@
 down:
   - "[[Strings]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 A finite sequence of symbols drawn from the alphabet is called a **string**

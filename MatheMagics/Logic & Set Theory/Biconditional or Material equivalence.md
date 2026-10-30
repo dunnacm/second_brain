@@ -1,11 +1,10 @@
 ---
-alases:
 down:
   - "[[Verbalization (material equivalence)]]"
   - "[[Material equivalence + Logical equivalence]]"
   - "[[Notation (object language)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Material equivalence
 

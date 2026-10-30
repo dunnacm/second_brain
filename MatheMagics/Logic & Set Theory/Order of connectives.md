@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Order
 1. Propositional forms in [[Grouping symbols]] (parenthesis or brackets)

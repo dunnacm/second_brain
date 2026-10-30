@@ -3,5 +3,5 @@ down:
   - "[[Semantic + PL]]"
   - "[[Semantic + FOL]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

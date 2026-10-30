@@ -1,10 +1,9 @@
 ---
-up:
 down:
   - "[[Unary predicates]]"
   - "[[Higher-arity predicates]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 

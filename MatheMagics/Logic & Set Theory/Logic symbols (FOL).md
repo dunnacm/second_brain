@@ -6,7 +6,7 @@ down:
   - "[[Grouping symbols]]"
   - "[[Equality symbol (=)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Logic symbols (logical vocabulary) for first-order logic: 
 

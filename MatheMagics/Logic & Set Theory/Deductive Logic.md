@@ -3,7 +3,7 @@ down:
   - "[[Mathematical Logic]]"
   - "[[Other types of deductive logic]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Core idea
 **Deductive logic** is about inferences where the premises _guarantee_ the conclusion: **if the premises are true, the conclusion cannot be false**.

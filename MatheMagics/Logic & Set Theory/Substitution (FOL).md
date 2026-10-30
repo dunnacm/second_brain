@@ -7,7 +7,7 @@ down:
   - "[[Substitution in quantifiers]]"
   - "[[Terms (S-Terms)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Fundamentals:
 ### Introduction:

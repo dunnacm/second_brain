@@ -1,10 +1,9 @@
 ---
-up:
 down:
   - "[[Theory symbols (PL)]]"
   - "[[Theory symbols, S (FOL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 **Theory symbols** (often called **nonlogical symbols**) are the symbols of a logical language whose meaning is **not fixed by logic itself**, but is instead supplied by the **interpretation/structure** (model) appropriate to the subject being studied (e.g., set theory, number theory, field theory).

@@ -4,7 +4,7 @@ down:
   - "[[Assignment (FOL), note 1]]"
   - "[[Assignment (FOL), note 2]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Purpose
 A **structure** is the semantic “universe” in which first-order formulas are evaluated.  

@@ -3,7 +3,7 @@ down:
   - "[[Constituent parts (arguments)]]"
   - "[[Argument form]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 An argument = **(** Premise(s) ) + ( Conclusion(s) **)**

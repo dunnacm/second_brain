@@ -3,7 +3,7 @@ down:
   - "[[Strings (PL)]]"
   - "[[Strings (FOL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Core similarity
 Both PL and FOL use the same **propositional connectives**

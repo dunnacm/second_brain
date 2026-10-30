@@ -2,7 +2,7 @@
 down:
   - "[[Material implication + Logical Implication]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Theorem:
 

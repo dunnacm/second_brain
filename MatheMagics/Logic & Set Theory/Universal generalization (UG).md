@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Introduction:
 Before writing formal proofs, one needs a rule that will **attach** a universal quantifier. It does not have an "iff" relationship with *universal instantiation*, for it requires a criterion on the constant. 

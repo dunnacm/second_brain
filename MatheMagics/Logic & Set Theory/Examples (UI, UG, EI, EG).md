@@ -6,7 +6,7 @@ down:
   - "[[Existential generalization (EG)]]"
   - "[[Continuity (function)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Example 1:
 $\text { Prove: } \exists x[p(x) \wedge q(x)], \forall x[p(x) \rightarrow r(x)] \vdash \exists x r(x)$

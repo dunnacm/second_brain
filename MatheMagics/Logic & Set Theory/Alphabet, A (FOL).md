@@ -1,10 +1,9 @@
 ---
-up:
 down:
   - "[[Theory symbols, S (FOL)]]"
   - "[[Logic symbols (FOL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Fundamentals:
 

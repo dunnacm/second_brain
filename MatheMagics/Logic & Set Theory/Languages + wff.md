@@ -3,5 +3,5 @@ down:
   - "[[PL + wff]]"
   - "[[FOL + wff]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

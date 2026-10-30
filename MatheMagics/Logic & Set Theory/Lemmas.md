@@ -2,6 +2,6 @@
 down:
   - "[[Theorems|Theorems]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Propositions proved from axioms (and earlier lemmas)

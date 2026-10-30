@@ -2,7 +2,7 @@
 down:
   - "[[Alphabet (PL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 A **propositional language** is the formal language used in **propositional logic**.  

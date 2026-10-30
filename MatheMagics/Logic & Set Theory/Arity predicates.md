@@ -1,10 +1,9 @@
 ---
-up:
 down:
   - "[[Unary predicates]]"
   - "[[Higher-arity predicates]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 The *arity* of a predicate (or relation symbol) is the number of arguments (terms) it takes. In FOL, each predicate symbol **P** is assigned a natural number *n*, called its **arity**, which specifies how many terms must follow it to form an *atomic formula*. 

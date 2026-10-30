@@ -4,7 +4,7 @@ down:
   - "[[Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization]]"
   - "[[Semantic validity]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 It refers to the meaning of symbols.

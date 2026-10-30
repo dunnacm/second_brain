@@ -3,7 +3,7 @@ down:
   - "[[(Non-propositional form) or (~wffs)]]"
   - "[[PL + wff]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Grammar provides the rules that distinguish **wff(s)** from *arbitrary symbol strings*:
 - Some strings are **~wff(s)** or *nonsense*: they do not follow the grammar of the language

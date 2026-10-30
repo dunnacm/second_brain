@@ -6,5 +6,5 @@ down:
   - "[[Conditional or Material implication]]"
   - "[[Biconditional or Material equivalence]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

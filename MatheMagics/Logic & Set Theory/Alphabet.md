@@ -1,12 +1,11 @@
 ---
-up:
 down:
   - "[[Symbol categories]]"
   - "[[Alphabet + Grammar]]"
   - "[[Alphabet's output]]"
   - "[[Alphabet + Proposition]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 Characters from a given collection of symbols.

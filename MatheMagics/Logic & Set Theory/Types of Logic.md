@@ -3,5 +3,5 @@ down:
   - "[[Deductive Logic]]"
   - "[[Non-deductive Logic]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

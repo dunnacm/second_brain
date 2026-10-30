@@ -5,5 +5,5 @@ down:
   - "[[(S-formula) + (Connectives)]]"
   - "[[(Variable bound to Quantifier) + (S-formula)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---

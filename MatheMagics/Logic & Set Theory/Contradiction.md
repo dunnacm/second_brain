@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Verbal definition:
 A propositional form p is a contradiction if v(p) always equals F for every valuation v

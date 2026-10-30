@@ -1,4 +1,5 @@
 {
-  "format": "MMM Do YYYY",
-  "folder": "Planner/Daily planner"
+  "format": "ddd, MMM DD YYYY",
+  "folder": "Time Management/Days",
+  "template": ""
 }

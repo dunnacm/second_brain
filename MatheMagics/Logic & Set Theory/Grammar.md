@@ -4,7 +4,7 @@ down:
   - "[[Grammar acts on]]"
   - "[[Propositional form or ((wffs) or (PL-formula))]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 Finite, recursive rules ([[Propositional form or ((wffs) or (PL-formula))|propositional form]]) for combining symbols into valid expressions.  

@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Verbal definition:
 A consistent sequence of of propositional forms is a subsequence of maximally consistent sequence of propositional form.

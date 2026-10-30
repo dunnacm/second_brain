@@ -45,7 +45,7 @@
       ],
       "color": "cyan"
     },
-    "Ideas": {
+    "Books": {
       "icon": "lucide-quote",
       "unsynced": [
         "aa2c3c88cf4aeb7c",
@@ -53,13 +53,9 @@
         "/storage/emulated/0/Documents"
       ]
     },
-    "Lexicon": {
-      "icon": "📖",
-      "unsynced": [
-        "aa2c3c88cf4aeb7c",
-        "5b27a0b7ae38890b",
-        "/storage/emulated/0/Documents"
-      ]
+    "Linguistics": {
+      "icon": "lucide-languages",
+      "color": "blue"
     },
     "MatheMagics": {
       "icon": "lucide-move-3d",

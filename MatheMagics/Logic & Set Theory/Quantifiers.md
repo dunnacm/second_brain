@@ -3,7 +3,7 @@ down:
   - "[[Types of quantifiers]]"
   - "[[Quantifiers (what they do)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 A **quantifier** indicates whether **all** objects (subjects) in the domain, or **at least one** object (subject) in the domain, satisfy a given **property** (i.e., make a formula true).

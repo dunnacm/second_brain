@@ -3,7 +3,7 @@ down:
   - "[[Substitution (PL)]]"
   - "[[Assignment (PL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition
 A **propositional variable** is a symbol (e.g., $\mathtt{p},\mathtt{q},\mathtt{r},\dots$$\mathtt{P,Q,R,}\dots,\text{ or } \mathtt{P_n,Q_n,R_n,}\dots$) that serves as an **atomic propositional form** in propositional logic.

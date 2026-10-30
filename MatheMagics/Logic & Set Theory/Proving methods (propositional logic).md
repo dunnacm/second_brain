@@ -3,7 +3,7 @@ down:
   - "[[(Direct Proof, DP) or (Conditional Proof)]]"
   - "[[Indirect proof (IP)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## [[(Direct Proof, DP) or (Conditional Proof)]]:
 - W/ premises

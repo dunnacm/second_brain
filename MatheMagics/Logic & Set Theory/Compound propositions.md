@@ -4,7 +4,7 @@ down:
   - "[[Grouping symbols]]"
   - "[[Connectives]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 Comprised by:
 - [[Atoms]]

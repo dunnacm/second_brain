@@ -5,6 +5,6 @@ down:
   - "[[Strings + Language]]"
   - "[[Propositional language (PL)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 An **alphabet** combined with **grammar** is a ***language***.

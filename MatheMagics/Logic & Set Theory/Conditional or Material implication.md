@@ -1,12 +1,11 @@
 ---
-aliases:
 down:
   - "[[Constituent parts (material implication)]]"
   - "[[Verbalizations (material implication)]]"
   - "[[Material implication + Logical Implication]]"
   - "[[Notation (object language)]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 ## Definition:
 

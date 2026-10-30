@@ -4,7 +4,7 @@ down:
   - "[[Derived results (from earlier results)]]"
   - "[[Proof rules]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 down:
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 $$
 \begin{aligned}& \text{From Example, it was concluded that:} \\[5pt]& (1) \; \vdash p \to p \\[15pt]& \text{The following theorem is to be proved:} \\[5pt]& (2) \; \vdash \lnot q \to (p \land \lnot p) \to q \\[15pt]& \text{Combining (1), (2) (All theorems agree with each other. They won't affect one another)} \\[5pt]& (3) \; p \to p,\; \lnot q \to (p \land \lnot p) \; \vdash q \\\\[15pt]\end{aligned}

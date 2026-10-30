@@ -5,6 +5,6 @@ down:
   - "[[Syntactic validity]]"
   - "[[Semantics ↦ Syntactics ⇔ English ↦ Symbolic language ⇔ Propositions (non-prop. form) ↦ Propositions (Propositional forms) ⇔ Assignment ⇒ Symbolization ⇔ Formalization]]"
 tags:
-  - mathemagics/mathematicalLogic_and_setTheory
+  - mathemagics/logic_and_set_theory
 ---
 
