@@ -58,9 +58,6 @@ Images, templates, reference materials, and project protocols that support the m
 
 Historical project resources are consolidated in [Projects/Archive](<Assets & Resources/Resources/Projects/Archive/README.md>). Its index separates the archived Canvas, yEd, and earlier EdrawMind workflows from the current mapping protocol and records their original locations.
 
-### `Ideas/`
-A lighter capture area for open-ended ideas and future development.
-
 ### Root-level notes
 The vault also contains standalone notes at the root, including `Unit circle vs unit hyperbola.md`.
 

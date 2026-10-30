@@ -2,8 +2,8 @@
 tags:
   - linguistics
 down:
-  - "[[Authors]]"
-  - "[[Audio-Visual Media]]"
+  - "[[Acquisition]]"
+  - "[[Consolidation]]"
 ---
 
 # Linguistics

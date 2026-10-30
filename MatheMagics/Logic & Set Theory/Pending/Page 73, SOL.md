@@ -1,3 +1,0 @@
-- Second-order formula
-- Second-order alphabet
-- Second order definition

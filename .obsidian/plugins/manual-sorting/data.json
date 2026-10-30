@@ -2,6 +2,8 @@
   "customOrder": {
     "/": {
       "children": [
+        "Consolidation.md",
+        "Acquisition.md",
         "Mythos.md",
         "Stephen Fry.md",
         "README.md",

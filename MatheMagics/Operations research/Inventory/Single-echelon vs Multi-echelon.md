@@ -1,6 +1,0 @@
----
-down:
-  - "[[Multi-echelon network state]]"
-tags:
-  - mathemagics/operations_research/inventory/ODEmodeling_parallelism
----

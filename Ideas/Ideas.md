@@ -1,5 +1,0 @@
----
-down:
-tags:
-  - Ideas
----

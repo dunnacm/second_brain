@@ -165,6 +165,14 @@ If moving to another machine or a genuinely different repository, establish the 
 
 ## Latest session record
 
+**Date:** 2026-10-30 (follow-up).
+**Completed:** the user chose to record all 87 previously uncommitted local note deletions on GitHub so the tracked local vault and `origin/main` coincide. This includes 75 inventory notes, five pending logic notes, four graph notes, and the Ideas, Language, and Medicaid notes. Removed the obsolete Ideas section from the repository guide. New `Acquisition.md` and `Consolidation.md` notes and their current links from `LINGUISTICS.md` were included when they appeared during staging.
+**Repository state:** `main` and `origin/main` matched at `686fdb0` before this reconciliation. The deleted notes remain recoverable from earlier Git history.
+**Publication status:** committed and pushed the reconciliation to `origin/main`; verify the final commit and working-tree state with Git.
+**Next action:** continue normal version-control reviews for future Obsidian changes.
+
+### Previous update: 2026-10-30
+
 **Date:** 2026-10-30.
 **Completed:** fetched `origin/main`; reviewed the October vault reorganization, Linguistics additions, mathematics tag changes, Obsidian settings and plugin updates, and the dated archive move record. The eight archive file hashes matched their current copies. The user chose to record the deletion of the old Lexicon folder.
 **Preserved:** the 86 notes held back in September, including 75 inventory notes, remain in GitHub and absent locally. `Ideas/Ideas.md` is also absent locally; its deletion remains unstaged because its intent was not established. Generated artifacts remain ignored.
