@@ -166,7 +166,7 @@ If moving to another machine or a genuinely different repository, establish the 
 ## Latest session record
 
 **Date:** 2026-10-30 (follow-up).
-**Completed:** the user chose to record all 87 previously uncommitted local note deletions on GitHub so the tracked local vault and `origin/main` coincide. This includes 75 inventory notes, five pending logic notes, four graph notes, and the Ideas, Language, and Medicaid notes. Removed the obsolete Ideas section from the repository guide. New `Acquisition.md` and `Consolidation.md` notes and their current links from `LINGUISTICS.md` were included when they appeared during staging.
+**Completed:** the user chose to record all 87 previously uncommitted local note deletions on GitHub so the tracked local vault and `origin/main` coincide. This includes 75 inventory notes, five pending logic notes, four graph notes, and the Ideas, Language, and Medicaid notes. Removed the obsolete Ideas section from the repository guide. New `Acquisition.md` and `Consolidation.md` notes and their current links from `LINGUISTICS.md` were included when they appeared during staging. A follow-up save captured the Linguistics acquisition tag changes after Obsidian edits paused.
 **Repository state:** `main` and `origin/main` matched at `686fdb0` before this reconciliation. The deleted notes remain recoverable from earlier Git history.
 **Publication status:** committed and pushed the reconciliation to `origin/main`; verify the final commit and working-tree state with Git.
 **Next action:** continue normal version-control reviews for future Obsidian changes.

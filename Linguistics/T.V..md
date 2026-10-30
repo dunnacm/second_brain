@@ -2,5 +2,5 @@
 down:
   - "[[GOT Universe]]"
 tags:
-  - linguistics/audio-visual_media/tv
+  - linguistics/acquisition/audio-visual_media/tv
 ---

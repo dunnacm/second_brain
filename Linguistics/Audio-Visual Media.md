@@ -3,5 +3,5 @@ down:
   - "[[T.V.]]"
   - "[[Movies]]"
 tags:
-  - linguistics/audio-visual_media
+  - linguistics/acquisition/audio-visual_media
 ---
