@@ -167,7 +167,7 @@ If moving to another machine or a genuinely different repository, establish the 
 
 **Date:** 2026-11-06.
 **Completed:** reconciled the vault scope and supporting resources; updated current folder names, references, and obsolete application configuration.
-**Publication status:** local changes only; no commit or push performed. Review the full working tree before the next authorized repository save.
+**Publication status:** pushed the reviewed vault snapshot in commit `33d6bca` to `origin/main` on 2026-11-06. The snapshot includes the renamed mathematics project folder, the removal of the Linguistics notes and the old planning setup, and the updated archive inventory and Obsidian settings.
 
 ### Previous update: 2026-10-30 (follow-up)
 
