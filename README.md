@@ -4,7 +4,7 @@ An Obsidian-based knowledge vault for building, organizing, and refining a long-
 
 This repository is not a generic notes dump. It is a structured vault with a strong emphasis on mathematical note-making, formal definitions, theorem-style writeups, symbolic glossaries, workflow protocols, and durable cross-linking.
 
-The main projects are **MatheMagics**, covering logic, set theory, real analysis, geometry, computation, and operations research, and **Linguistics**, studying vocabulary and expressions through books, television, and films. Supporting resources, idea capture, notation references, and project protocols connect these collections.
+The main project is **MatheMagics**, covering logic, set theory, real analysis, geometry, computation, and operations research. Supporting resources, notation references, and project protocols connect these collections.
 
 ## What this vault is for
 
@@ -13,7 +13,6 @@ This repository serves several purposes at once:
 - a **second brain** for durable knowledge capture
 - an **Obsidian vault** with tracked settings, theme choices, and plugins
 - a **mathematics notebook system** for definitions, examples, proofs, and symbol references
-- a **context-based vocabulary collection** with shared word pages, verified word families, and links to their source encounters
 - a **protocol repository** for writing, formatting, and refining notes over time
 - a **linked knowledge graph** built through `[[wikilinks]]`, frontmatter metadata, and topic hierarchies
 
@@ -44,14 +43,7 @@ Representative subareas include:
 
 Within these folders, notes are often granular and atomic. A single concept, theorem, symbol family, example, or proof pattern may live in its own file.
 
-The Logic and Set Theory EdrawMind map is maintained outside the vault in `C:\Users\dunnc\OneDrive\Desktop\mind_map\Academic\Logic and Set Theory\Current`. Its [node-visualization protocol](<Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md>) governs repeated branches, local cycle Relationships, and supplementary placements. The 2026-09-29 update scope includes all directly linked anchors of eligible detached notes and sub-branches. Its manifest distinguishes source links from assumed reciprocal links and records native-app verification separately from structural checks; a dated map-and-record backup supports rollback.
-
-### `Linguistics/`
-Vocabulary and expressions studied through authors, books, television, and films. Source notes lead to shared lexical pages containing meanings in context, encounters, original examples, attested usage where available, and verified word-family links.
-
-[LINGUISTICS.md](Linguistics/LINGUISTICS.md) contains the project description, dictionary scope, page conventions, reusable vocabulary prompt, and EdrawMind mapping instructions. Family inventories are exhaustive within a declared source scope; no separate review-status or scheduled-practice system is used.
-
-EdrawMind maps are generated snapshots of the Obsidian relationships. Linguistics working maps and their matching manifests belong directly in `C:\Users\dunnc\OneDrive\Desktop\mind_map\Academic\Linguistics`, outside this repository. The mapping rules preserve repeated topics and native cycle Relationships, integrate related supplementary topics beneath their anchors through a recorded provisional reciprocal-link assumption, and reserve floating topics for unresolved placement, following the existing Logic & Set Theory protocol with the Linguistics adaptations. Establishing these instructions does not mean a native map has already been generated.
+The Logic and Set Theory EdrawMind map is maintained outside the vault in `C:\Users\dunnc\OneDrive\Desktop\mind_map\Academic\Logic and Set Theory\Current`. Its [node-visualization protocol](<Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md>) governs repeated branches, local cycle Relationships, and supplementary placements. The 2026-09-29 update scope includes all directly linked anchors of eligible detached notes and sub-branches. Its manifest distinguishes source links from assumed reciprocal links and records native-app verification separately from structural checks; a dated map-and-record backup supports rollback.
 
 ### `Assets & Resources/`
 Images, templates, reference materials, and project protocols that support the main notes.
@@ -124,7 +116,6 @@ The vault contains explicit protocols for:
 - how proofs should be transcribed
 - how Obsidian-ready Markdown + LaTeX should be structured
 - how topic hierarchies and MOCs should be maintained
-- how vocabulary encounters and verified word families should be documented and mapped
 - how writing conventions are refined over time
 
 That makes the repo both a knowledge base and a meta-knowledge base about how that knowledge should be represented.

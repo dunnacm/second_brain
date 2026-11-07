@@ -12,7 +12,7 @@ Use **GitHub Desktop on Windows** for a visual review, or ask the assistant to p
 
 The usual goal is to preserve the intended vault changes on **main**, with a descriptive commit and a verified push. A request to rename notes or write this protocol does not itself request a commit or push.
 
-This document currently lives in **Assets & Resources → Resources → Projects → Mathematics & Linguistics Projects → Protocols**. It applies to version control for the whole vault.
+This document currently lives in **Assets & Resources → Resources → Projects → Mathematics Projects → Protocols**. It applies to version control for the whole vault.
 
 ## Confirmed repository identity
 
@@ -34,7 +34,7 @@ The Windows folder is the **local repository**; GitHub is its **remote repositor
 
 Earlier project sessions saved vault changes to GitHub and brought the work onto main. The repository state recorded on September 16 ended at the March 27 commit listed above. Later changes must be checked against fresh Git output.
 
-An earlier broad reorganization was reverted at the user's request. At the September 16 inspection, the top-level folder was **Systems and Resources**. The vault was later reorganized under **Assets & Resources** and **Lexicon**. In October, the local Lexicon folder was removed and the Linguistics project was added. The September 16 pass relabeled Mathematics Project support material, added concise Properties, and created this protocol.
+An earlier broad reorganization was reverted at the user's request. At the September 16 inspection, the top-level folder was **Systems and Resources**. The vault was later reorganized under **Assets & Resources** and **Lexicon**. In October, the local Lexicon folder was removed. The September 16 pass relabeled Mathematics Project support material, added concise Properties, and created this protocol.
 
 The Mathematics Project notes now use three plain-text Properties: **type**, **project**, and **status**. There are no links in those Properties. Version numbers and snapshot dates remain in filenames. Protocol v07 is labeled current because it is the version outside Archive; its content has not been reconciled into a new specification. The nested-list MOC experiments remain draft because the source contains repeated blocks and an incomplete closing fence.
 
@@ -58,7 +58,7 @@ Local repository:
 C:\Users\dunnc\My Drive (cardonadunn@gmail.com)\PRESENT\Η βιβλιοθήκη\second_brain
 
 Read:
-Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Version Control Protocol.md
+Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Version Control Protocol.md
 
 Expected remote: https://github.com/dunnacm/second_brain.git
 Target branch: main
@@ -146,7 +146,7 @@ Use this handoff prompt:
 Continue version-control maintenance for my second_brain Obsidian vault.
 
 Read:
-Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Version Control Protocol.md
+Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Version Control Protocol.md
 
 Repository root:
 C:\Users\dunnc\My Drive (cardonadunn@gmail.com)\PRESENT\Η βιβλιοθήκη\second_brain
@@ -165,8 +165,14 @@ If moving to another machine or a genuinely different repository, establish the 
 
 ## Latest session record
 
+**Date:** 2026-11-06.
+**Completed:** reconciled the vault scope and supporting resources; updated current folder names, references, and obsolete application configuration.
+**Publication status:** local changes only; no commit or push performed. Review the full working tree before the next authorized repository save.
+
+### Previous update: 2026-10-30 (follow-up)
+
 **Date:** 2026-10-30 (follow-up).
-**Completed:** the user chose to record all 87 previously uncommitted local note deletions on GitHub so the tracked local vault and `origin/main` coincide. This includes 75 inventory notes, five pending logic notes, four graph notes, and the Ideas, Language, and Medicaid notes. Removed the obsolete Ideas section from the repository guide. New `Acquisition.md` and `Consolidation.md` notes and their current links from `LINGUISTICS.md` were included when they appeared during staging. A follow-up save captured the Linguistics acquisition tag changes after Obsidian edits paused.
+**Completed:** the user chose to record all 87 previously uncommitted local note deletions on GitHub so the tracked local vault and `origin/main` coincide. This includes 75 inventory notes, five pending logic notes, four graph notes, and the Ideas, Language, and Medicaid notes. Removed the obsolete Ideas section from the repository guide.
 **Repository state:** `main` and `origin/main` matched at `686fdb0` before this reconciliation. The deleted notes remain recoverable from earlier Git history.
 **Publication status:** committed and pushed the reconciliation to `origin/main`; verify the final commit and working-tree state with Git.
 **Next action:** continue normal version-control reviews for future Obsidian changes.
@@ -174,7 +180,7 @@ If moving to another machine or a genuinely different repository, establish the 
 ### Previous update: 2026-10-30
 
 **Date:** 2026-10-30.
-**Completed:** fetched `origin/main`; reviewed the October vault reorganization, Linguistics additions, mathematics tag changes, Obsidian settings and plugin updates, and the dated archive move record. The eight archive file hashes matched their current copies. The user chose to record the deletion of the old Lexicon folder.
+**Completed:** fetched `origin/main`; reviewed the October vault reorganization, mathematics tag changes, Obsidian settings and plugin updates, and the dated archive move record. The eight archive file hashes matched their current copies. The user chose to record the deletion of the old Lexicon folder.
 **Preserved:** the 86 notes held back in September, including 75 inventory notes, remain in GitHub and absent locally. `Ideas/Ideas.md` is also absent locally; its deletion remains unstaged because its intent was not established. Generated artifacts remain ignored.
 **Repository state:** `main` and `origin/main` matched at `d4c88b8` before this update.
 **Publication status:** committed and pushed the reviewed changes to `origin/main`; verify the final commit ID and remote branch ID with Git after future updates.

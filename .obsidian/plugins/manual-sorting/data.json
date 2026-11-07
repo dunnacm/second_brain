@@ -2,15 +2,10 @@
   "customOrder": {
     "/": {
       "children": [
-        "Consolidation.md",
-        "Acquisition.md",
-        "Mythos.md",
-        "Stephen Fry.md",
         "README.md",
         "Untitled.md",
         "Unit circle vs unit hyperbola.md",
         "MatheMagics",
-        "Linguistics",
         "Books",
         "Assets & Resources"
       ],
@@ -159,8 +154,7 @@
     "Assets & Resources/Assets/Templates": {
       "children": [
         "Assets & Resources/Assets/Templates/Maps of Meaning",
-        "Assets & Resources/Assets/Templates/Math",
-        "Assets & Resources/Assets/Templates/Planning"
+        "Assets & Resources/Assets/Templates/Math"
       ],
       "sortOrder": "custom"
     },
@@ -179,18 +173,6 @@
         "Assets & Resources/Assets/Templates/Math/Template - Calculus.md",
         "Assets & Resources/Assets/Templates/Math/Template - Logic.md",
         "Assets & Resources/Assets/Templates/Math/Template - Real Analysis.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Assets & Resources/Assets/Templates/Planning": {
-      "children": [
-        "Assets & Resources/Assets/Templates/Planning/Archived"
-      ],
-      "sortOrder": "custom"
-    },
-    "Assets & Resources/Assets/Templates/Planning/Archived": {
-      "children": [
-        "Assets & Resources/Assets/Templates/Planning/Archived/Daily planner template.md"
       ],
       "sortOrder": "custom"
     },
@@ -219,15 +201,15 @@
     "Assets & Resources/Resources/Projects": {
       "children": [
         "Assets & Resources/Resources/Projects/Archive",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects"
+        "Assets & Resources/Resources/Projects/Mathematics Projects"
       ],
       "sortOrder": "custom"
     },
     "Assets & Resources/Resources/Projects/Archive": {
       "children": [
+        "Assets & Resources/Resources/Projects/Archive/Archive inventory.csv",
         "Assets & Resources/Resources/Projects/Archive/README.md",
         "Assets & Resources/Resources/Projects/Archive/Canvas",
-        "Assets & Resources/Resources/Projects/Archive/Archive moves - 2026-10-10.csv",
         "Assets & Resources/Resources/Projects/Archive/yEd",
         "Assets & Resources/Resources/Projects/Archive/EdrawMind"
       ],
@@ -274,90 +256,74 @@
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Maps of Content"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Maps of Content"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Maps of Content": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Maps of Content": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Maps of Content/MOC - Nested List Experiments.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Maps of Content/MOC - Mermaid Diagram.md"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Maps of Content/MOC - Nested List Experiments.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Maps of Content/MOC - Mermaid Diagram.md"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Logic & Set Theory Outline.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Logic - Linked Map.emmx",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Logic - Linked Map.mm"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Logic & Set Theory Outline.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Obsidian to EdrawMind",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Logic - Linked Map.emmx",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Logic - Linked Map.mm"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Obsidian to EdrawMind": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Version Control Protocol.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/ChatGPT Global Memory v04.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/MatheMagics - ChatGPT Protocol v07.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Version Control Protocol.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/ChatGPT Global Memory v04.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/MatheMagics - ChatGPT Protocol v07.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-03-05.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-02-16.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-01-11.md"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-03-05.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-02-16.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/Chat GPT's Global Memory Snapshots/ChatGPT Memory - 2026-01-11.md"
       ],
       "sortOrder": "custom"
     },
-    "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots": {
+    "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots": {
       "children": [
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v01.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v02.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v03.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v04.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v05.md",
-        "Assets & Resources/Resources/Projects/Mathematics & Linguistics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v06.md"
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v01.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v02.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v03.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v04.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v05.md",
+        "Assets & Resources/Resources/Projects/Mathematics Projects/Protocols/Archived/MatheMagics Memory Snapshots/MatheMagics - ChatGPT Protocol v06.md"
       ],
       "sortOrder": "custom"
     },
     "Books": {
       "children": [
         "Books/BOOKS.md"
-      ],
-      "sortOrder": "custom"
-    },
-    "Linguistics": {
-      "children": [
-        "Linguistics/Audio-Visual Media.md",
-        "Linguistics/Authors.md",
-        "Linguistics/Movies.md",
-        "Linguistics/The Screwtape Letters - Preface.md",
-        "Linguistics/LINGUISTICS.md",
-        "Linguistics/A Knight of the Seven Kingdoms.md",
-        "Linguistics/T.V..md",
-        "Linguistics/GOT Universe.md",
-        "Linguistics/Screwtape Proposes a Toast.md",
-        "Linguistics/The Screwtape Letters.md",
-        "Linguistics/C.S. Lewis.md"
       ],
       "sortOrder": "custom"
     },

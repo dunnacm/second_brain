@@ -54,7 +54,7 @@ Use a curved, dashed gray Relationship with its arrowhead at the destination, as
 
 ### 3. Integrate supplementary notes through an assumed reciprocal link
 
-**Provisional rule adopted 2026-09-29.** This replaces the previous default of showing a related supplementary note as a detached floating topic with a long Relationship to the main hierarchy. It applies to both mathematics and Linguistics maps using this protocol, until the user changes it.
+**Provisional rule adopted 2026-09-29.** This replaces the previous default of showing a related supplementary note as a detached floating topic with a long Relationship to the main hierarchy. It applies to mathematics maps using this protocol, until the user changes it.
 
 When a supplementary note B would otherwise float, but its actual note links establish a clear connection to an already placed A, treat A and B as reciprocally linked for presentation. Prefer an established hierarchy placement first. Where the source has only B → A, add an assumed A → B to the mapping model and display B as a normal child of the relevant A occurrence. Retain B's supported descendants. This makes B accessible within the branch without giving it the visual prominence of the presentation center.
 

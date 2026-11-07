@@ -1,6 +1,6 @@
 # Archived project resources
 
-Historical visualization workflows for **Logic & Set Theory**, grouped by application. These records are retained for reference; use the [current EdrawMind protocol](<../Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md>) for ongoing mapping work.
+Historical visualization workflows for **Logic & Set Theory**, grouped by application. These records are retained for reference; use the [current EdrawMind protocol](<../Mathematics Projects/Node visualization/Obsidian to EdrawMind/Protocol Creation and Upkeep Protocol.md>) for ongoing mapping work.
 
 ## Contents
 
@@ -14,10 +14,6 @@ The archived documents retain their original wording and metadata, including his
 
 The Canvas manifest names `Logic & Set Theory.canvas`, but that Canvas file was absent from the materials consolidated here. No native Canvas or yEd graph was included in this move; the archive is a collection of protocols, tools, and the existing Canvas record.
 
-## Consolidation record — 2026-10-10
+## Archive inventory
 
-Seven source files and one generated Python cache were consolidated from `Mathematics & Linguistics Projects/Node visualization/Obsidian to EdrawMind/Archived`, including its nested `Archived/Canvas` and `Archived/yEd` folders. The cache remains local and is excluded from Git by `.gitignore`. Empty nested folders, including the empty `Canvas & yEd/Lexicon` placeholder, were removed after verification.
-
-[Archive moves - 2026-10-10.csv](<Archive moves - 2026-10-10.csv>) records each original vault-relative path, its new path, size, and SHA-256 hash. Every file was verified against its original contents before the old copy was removed.
-
-To undo this consolidation, use the CSV's `OriginalPath` and `ArchivedPath` columns to restore each file to its former location. Verify its hash and check for existing files before moving it back.
+[Archive inventory](<Archive inventory.csv>) lists the preserved files, their vault-relative locations, sizes, and SHA-256 hashes. These are historical materials, not the current mapping instructions. The Python cache remains local and excluded from Git.

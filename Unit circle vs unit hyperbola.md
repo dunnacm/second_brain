@@ -2,6 +2,7 @@
 down:
 tags:
   - mathemagics/geometry/hyperbolic
+aliases:
 ---
 ## Primary
 ```columns

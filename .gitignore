@@ -2,7 +2,6 @@
 .obsidian/workspaces.json
 .stfolder/
 
-.obsidian/todoist-token
 .obsidian/**/*token*
 .obsidian/*.sync-conflict-*.json
 .obsidian/workspace*.json

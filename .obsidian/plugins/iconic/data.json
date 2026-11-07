@@ -53,10 +53,6 @@
         "/storage/emulated/0/Documents"
       ]
     },
-    "Linguistics": {
-      "icon": "lucide-languages",
-      "color": "blue"
-    },
     "MatheMagics": {
       "icon": "lucide-move-3d",
       "color": "yellow",
@@ -236,8 +232,7 @@
       "conditions": [
         {
           "source": "tree",
-          "operator": "contains",
-          "value": "planner"
+          "operator": "contains"
         }
       ],
       "enabled": true,
